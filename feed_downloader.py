@@ -3,6 +3,7 @@ import pandas as pd
 
 
 def main():
+    print('start feed downloading ...')
     feed_el_pais = 'https://www.elpais.com.uy/rss/'
     feed_brecha = 'https://brecha.com.uy/feed/'
     feed_el_observador = "https://www.elobservador.com.uy/rss/elobservador.xml"
@@ -22,6 +23,7 @@ def main():
     response = requests.get(feed_la_diaria)
     with open('./feeds/ladiaria/ladiaria-{}-{}hs{}min.xml'.format(today, now[0:2], now[3:5]), 'wb') as file:
         file.write(response.content)
+    print('file downloaded successfully')
 
 
 if __name__ == '__main__':

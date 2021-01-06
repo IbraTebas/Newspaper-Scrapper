@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>El Observador - </title>
+		<description>El Observador</description>
+		<link>https://www.elobservador.com.uy</link>
+		<language>spa</language>
+		<lastBuildDate>Tue, 05 Jan 2021 19:13:33 GMT</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.mustang.cloud/</generator>
+		<copyright>Copyright (c) 2021</copyright>
+		<atom:link href="https://www.elobservador.com.uy/rss/elobservador.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>El Observador - </title>
+			<url>https://www.elobservador.com.uy/images/estructura/logo.png</url>
+			<link>https://www.elobservador.com.uy</link>
+		</image>
+
+		<item>
+			<title><![CDATA[
+				Provincias argentinas anunciaron toque de queda sanitario: cuáles son y en qué consiste
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/toque-de-queda-sanitario-en-dos-provincias-de-argentina-cuales-son-y-en-que-consiste-20211515584</link>
+			<guid>https://www.elobservador.com.uy/nota/toque-de-queda-sanitario-en-dos-provincias-de-argentina-cuales-son-y-en-que-consiste-20211515584</guid>
+			<description><![CDATA[El gobierno argentino evalúa cancelar vuelos internacionales para evitar el ingreso de la nueva cepa de coronavirus al país]]></description>
+			<pubDate>Tue, 05 Jan 2021 18:58:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Diógenes, Luc, Coromoto: mirá los nombres más raros y más populares de Uruguay en 2020
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/luc-coromoto-y-mas-mira-los-nombres-mas-raros-y-mas-populares-de-uruguay-en-2020-20211515283</link>
+			<guid>https://www.elobservador.com.uy/nota/luc-coromoto-y-mas-mira-los-nombres-mas-raros-y-mas-populares-de-uruguay-en-2020-20211515283</guid>
+			<description><![CDATA[Buscá el nombre que quieras y conocé qué tan popular fue en 2020 en Uruguay]]></description>
+			<pubDate>Tue, 05 Jan 2021 18:28:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La inflación cerró el 2020 en 9,4% y fue la más elevada en cinco años 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-inflacion-cerro-el-2020-en-9-4-y-fue-la-mas-elevada-en-cinco-anos--202115152229</link>
+			<guid>https://www.elobservador.com.uy/nota/la-inflacion-cerro-el-2020-en-9-4-y-fue-la-mas-elevada-en-cinco-anos--202115152229</guid>
+			<description><![CDATA[El dato estuvo apenas una décima por encima de lo que proyectaban los analistas privados que respondieron la encuesta del Banco Central (BCU)]]></description>
+			<pubDate>Tue, 05 Jan 2021 18:22:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Exempleado despedido robó una excavadora y luego destrozó más de 50 Mercedes Benz
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/exempleado-despedido-robo-una-excavadora-y-luego-destrozo-mas-de-50-mercedes-benz-20211515100</link>
+			<guid>https://www.elobservador.com.uy/nota/exempleado-despedido-robo-una-excavadora-y-luego-destrozo-mas-de-50-mercedes-benz-20211515100</guid>
+			<description><![CDATA[El hombre de 38 años, dado de baja en 2017, causó daños por más de dos millones de euros en España]]></description>
+			<pubDate>Tue, 05 Jan 2021 18:10:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La original propuesta de matrimonio de un enfermero italiano
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/en-plena-pandemia-un-enfermero-pide-matrimonio-a-su-novia-con-un-original-mensaje-20211514152</link>
+			<guid>https://www.elobservador.com.uy/nota/en-plena-pandemia-un-enfermero-pide-matrimonio-a-su-novia-con-un-original-mensaje-20211514152</guid>
+			<description><![CDATA[En Italia, uno de los países más enlutados en el mundo por el coronavirus, con más de 74.600 fallecidos, parece que el amor siempre encontrará su camino, incluso en tiempos de pandemia]]></description>
+			<pubDate>Tue, 05 Jan 2021 17:15:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Los frigoríficos con casos de coronavirus y las dos plantas que reabren
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/los-frigorificos-con-casos-de-coronavirus-y-las-dos-plantas-que-reabren--20211514940</link>
+			<guid>https://www.elobservador.com.uy/nota/los-frigorificos-con-casos-de-coronavirus-y-las-dos-plantas-que-reabren--20211514940</guid>
+			<description><![CDATA[Los brotes están "controlados" aseguran desde el sindicato; reabren las plantas de Canelones y Rosario]]></description>
+			<pubDate>Tue, 05 Jan 2021 17:09:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Cambio climático: 5 razones por las que 2021 puede ser un año crucial en la lucha contra el cambio climático
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/cambio-climatico-5-razones-por-las-que-2021-puede-ser-un-ano-crucial-en-la-lucha-contra-el-cambio-climatico-202115134823</link>
+			<guid>https://www.elobservador.com.uy/nota/cambio-climatico-5-razones-por-las-que-2021-puede-ser-un-ano-crucial-en-la-lucha-contra-el-cambio-climatico-202115134823</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 05 Jan 2021 16:48:23 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Nueva cepa de coronavirus: por qué la nueva variante detectada en Reino Unido es tan contagiosa
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/nueva-cepa-de-coronavirus-por-que-la-nueva-variante-detectada-en-reino-unido-es-tan-contagiosa-202115134633</link>
+			<guid>https://www.elobservador.com.uy/nota/nueva-cepa-de-coronavirus-por-que-la-nueva-variante-detectada-en-reino-unido-es-tan-contagiosa-202115134633</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 05 Jan 2021 16:46:33 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Chavismo tomó control de la Asamblea y Guaidó pidió unidad a los "líderes opositores"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/chavismo-tomo-control-de-la-asamblea-y-guaido-pidio-unidad-a-los-lideres-opositores--202115134459</link>
+			<guid>https://www.elobservador.com.uy/nota/chavismo-tomo-control-de-la-asamblea-y-guaido-pidio-unidad-a-los-lideres-opositores--202115134459</guid>
+			<description><![CDATA[El parlamento presidido por Juan Guaidó sesionó, en paralelo, de forma semipresencial]]></description>
+			<pubDate>Tue, 05 Jan 2021 16:44:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Oficialismo: acuerdo por vacunas es "inminente" y aval científico tendrá prioridad
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/salinas-y-delgado-en-el-parlamento-se-deben-extremar-esfuerzos-para-empezar-a-vacunar-lo-antes-posible--202115133859</link>
+			<guid>https://www.elobservador.com.uy/nota/salinas-y-delgado-en-el-parlamento-se-deben-extremar-esfuerzos-para-empezar-a-vacunar-lo-antes-posible--202115133859</guid>
+			<description><![CDATA[El Frente Amplio convocó al gobierno para que dé explicaciones acerca de la situación sanitaria y las negociaciones para adquirir vacunas]]></description>
+			<pubDate>Tue, 05 Jan 2021 16:38:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Pampita vs Isabel Macedo: revelan cómo fue por dentro la histórica pelea en Punta del Este
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/pampita-vs-isabel-macedo-revelan-como-fue-por-dentro-la-historica-pelea-en-punta-del-este-202115133639</link>
+			<guid>https://www.elobservador.com.uy/nota/pampita-vs-isabel-macedo-revelan-como-fue-por-dentro-la-historica-pelea-en-punta-del-este-202115133639</guid>
+			<description><![CDATA[La periodista Connie Ansaldi estuvo en la recordada riña entre la modelo y la actriz argentinas, y contó datos desconocidos hasta ahora]]></description>
+			<pubDate>Tue, 05 Jan 2021 16:36:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				El retrato de Hugo Chávez regresa a la Asamblea Nacional de Venezuela con la toma de control por parte del oficialismo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/el-retrato-de-hugo-chavez-regresa-a-la-asamblea-nacional-de-venezuela-con-la-toma-de-control-por-parte-del-oficialismo-202115132510</link>
+			<guid>https://www.elobservador.com.uy/nota/el-retrato-de-hugo-chavez-regresa-a-la-asamblea-nacional-de-venezuela-con-la-toma-de-control-por-parte-del-oficialismo-202115132510</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 05 Jan 2021 16:25:10 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Cuánto aumenta la Contribución, las bonificaciones y el calendario de pagos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/cuanto-aumenta-la-contribucion-las-bonificaciones-y-el-calendario-de-pagos-202115131719</link>
+			<guid>https://www.elobservador.com.uy/nota/cuanto-aumenta-la-contribucion-las-bonificaciones-y-el-calendario-de-pagos-202115131719</guid>
+			<description><![CDATA[El ajuste de las contribuciones inmobiliarias en Montevideo, Canelones y Maldonado ronda el 9%; conocé los detalles]]></description>
+			<pubDate>Tue, 05 Jan 2021 16:17:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Series sobre el mundo empresarial para ver en vacaciones e inspirarse
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/series-sobre-el-mundo-empresarial-para-ver-en-vacaciones-e-inspirarse-20211513042</link>
+			<guid>https://www.elobservador.com.uy/nota/series-sobre-el-mundo-empresarial-para-ver-en-vacaciones-e-inspirarse-20211513042</guid>
+			<description><![CDATA[Una selección de historias reales y ficticias para sacar apuntes, seguir de ejemplo y pasar el rato]]></description>
+			<pubDate>Tue, 05 Jan 2021 16:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Nueva Carrara: empresa refuerza cerramiento del predio y dice que hasta hubo fiestas de noche
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/nueva-carrara-empresa-refuerza-cerramiento-del-predio-y-denuncia-que-hasta-hubo-fiestas-de-noche-20211512580</link>
+			<guid>https://www.elobservador.com.uy/nota/nueva-carrara-empresa-refuerza-cerramiento-del-predio-y-denuncia-que-hasta-hubo-fiestas-de-noche-20211512580</guid>
+			<description><![CDATA[La policía evacuó varias veces Nueva Carrara y la compañía a cargo de la cantera asegura que pondrá más alambrados]]></description>
+			<pubDate>Tue, 05 Jan 2021 15:58:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Richard "Chengue" Morales y Mía Etcheverría fueron padres de su segunda hija
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/richard-chegue-morales-y-mia-etcheverria-fueron-padres-de-su-segunda-hija-20211512546</link>
+			<guid>https://www.elobservador.com.uy/nota/richard-chegue-morales-y-mia-etcheverria-fueron-padres-de-su-segunda-hija-20211512546</guid>
+			<description><![CDATA[La pareja recibió a Trihanna Noemí, nacida en los últimos días de 2020]]></description>
+			<pubDate>Tue, 05 Jan 2021 15:54:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Sin cruceros y con medidas a estudio: ¿cómo viene la temporada en Montevideo?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/sin-cruceros-y-con-medidas-a-estudio-como-viene-la-temporada-en-montevideo--202115122618</link>
+			<guid>https://www.elobservador.com.uy/nota/sin-cruceros-y-con-medidas-a-estudio-como-viene-la-temporada-en-montevideo--202115122618</guid>
+			<description><![CDATA[El gobierno nacional apuesta a la campaña para promover el turismo interno dado el cierre de fronteras, y expone que "mucho más no se puede cambiar"; la IMM tiene a estudio apoyos para aliviar al sector]]></description>
+			<pubDate>Tue, 05 Jan 2021 15:26:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Qué significa el fin del embargo a Qatar que lideraba Arabia Saudita
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/que-significa-el-fin-del-embargo-a-qatar-que-lideraba-arabia-saudita-20211512931</link>
+			<guid>https://www.elobservador.com.uy/nota/que-significa-el-fin-del-embargo-a-qatar-que-lideraba-arabia-saudita-20211512931</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 05 Jan 2021 15:09:31 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				México autorizó la vacuna de AstraZeneca/Oxford, que espera tener en marzo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/mexico-autorizo-la-vacuna-de-astrazeneca-oxford-que-espera-tener-en-marzo-202115115133</link>
+			<guid>https://www.elobservador.com.uy/nota/mexico-autorizo-la-vacuna-de-astrazeneca-oxford-que-espera-tener-en-marzo-202115115133</guid>
+			<description><![CDATA[México participa en un acuerdo con la fundación del magnate mexicano Carlos Slim, AstraZeneca y la Universidad de Oxford para la producción del fármaco en Argentina y su envasado en instalaciones mexicanas]]></description>
+			<pubDate>Tue, 05 Jan 2021 14:51:33 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Policía advierte que entrar a Nueva Carrara implica un delito contra la propiedad
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/policia-advierte-que-entrar-a-nueva-carrara-implica-un-delito-contra-la-propiedad-202115114113</link>
+			<guid>https://www.elobservador.com.uy/nota/policia-advierte-que-entrar-a-nueva-carrara-implica-un-delito-contra-la-propiedad-202115114113</guid>
+			<description><![CDATA[Nueva Carrara pertenece a la Compañía Nacional de Cementos y las autoridades exhortan a no concurrir y advierte que se está cometiendo un delito contra la propiedad privada]]></description>
+			<pubDate>Tue, 05 Jan 2021 14:41:13 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Reabrió Aloft Montevideo Hotel con su estilo vibrante y descontracturado
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/reabrio-aloft-montevideo-hotel-con-su-estilo-vibrante-y-descontracturado-20211511384</link>
+			<guid>https://www.elobservador.com.uy/nota/reabrio-aloft-montevideo-hotel-con-su-estilo-vibrante-y-descontracturado-20211511384</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 05 Jan 2021 14:38:04 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Le robó a la reina Isabel durante años en el Palacio de Buckingham y terminó en la cárcel
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/de-medallas-hasta-fotos-un-empleado-del-palacio-de-buckingham-fue-a-la-carcel-por-robarle-a-la-reina-durante-anos-202115113834</link>
+			<guid>https://www.elobservador.com.uy/nota/de-medallas-hasta-fotos-un-empleado-del-palacio-de-buckingham-fue-a-la-carcel-por-robarle-a-la-reina-durante-anos-202115113834</guid>
+			<description><![CDATA[El funcionario se declaró culpable de diversos robos, entre ellos el de el álbum de fotos del banquete real junto a Donald Trump y algunas medallas valiosas]]></description>
+			<pubDate>Tue, 05 Jan 2021 14:38:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Muere un pescador mexicano tras un enfrentamiento con conservacionistas
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/muere-un-pescador-mexicano-tras-un-enfrentamiento-con-conservacionistas-202115111918</link>
+			<guid>https://www.elobservador.com.uy/nota/muere-un-pescador-mexicano-tras-un-enfrentamiento-con-conservacionistas-202115111918</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 05 Jan 2021 14:19:18 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				"No vamos a correr riesgos inútiles": la presión en Australia por las vacunas y la estrategia del gobierno
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-no-vamos-a-correr-riesgos-inutiles-la-presion-en-australia-por-las-vacunas-y-la-estrategia-del-gobierno-202115104533</link>
+			<guid>https://www.elobservador.com.uy/nota/-no-vamos-a-correr-riesgos-inutiles-la-presion-en-australia-por-las-vacunas-y-la-estrategia-del-gobierno-202115104533</guid>
+			<description><![CDATA[Australia, con solo 25 millones de habitantes, registra menos de 30 mil contagios y no llega a las mil muertes por coronavirus]]></description>
+			<pubDate>Tue, 05 Jan 2021 13:45:33 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Empleados de Google forman sindicato
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/empleados-de-google-forman-sindicato-202115104125</link>
+			<guid>https://www.elobservador.com.uy/nota/empleados-de-google-forman-sindicato-202115104125</guid>
+			<description><![CDATA[La iniciativa intensifica un período de activismo en relación los gigantes de Silicon Valley ]]></description>
+			<pubDate>Tue, 05 Jan 2021 13:41:25 GMT</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>El Observador - </title>
+		<description>El Observador</description>
+		<link>https://www.elobservador.com.uy</link>
+		<language>spa</language>
+		<lastBuildDate>Mon, 04 Jan 2021 08:54:32 GMT</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.mustang.cloud/</generator>
+		<copyright>Copyright (c) 2021</copyright>
+		<atom:link href="https://www.elobservador.com.uy/rss/elobservador.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>El Observador - </title>
+			<url>https://www.elobservador.com.uy/images/estructura/logo.png</url>
+			<link>https://www.elobservador.com.uy</link>
+		</image>
+
+		<item>
+			<title><![CDATA[
+				Cristianismo cultural
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/cristianismo-cultural-20211322370</link>
+			<guid>https://www.elobservador.com.uy/nota/cristianismo-cultural-20211322370</guid>
+			<description><![CDATA[El aprecio del valor cultural del cristianismo es algo bueno, pero insuficiente tanto para la Iglesia como para el mundo]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:02:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Semana clave en el país para las vacunas contra covid-19: se esperan anuncios
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/semana-clave-en-el-pais-para-las-vacunas-contra-covid-19-se-esperan-anuncios-20211317300</link>
+			<guid>https://www.elobservador.com.uy/nota/semana-clave-en-el-pais-para-las-vacunas-contra-covid-19-se-esperan-anuncios-20211317300</guid>
+			<description><![CDATA[El gobierno está por concretar una compra de la vacuna de Pfizer/BioNtech, y negocia de forma directa con otros laboratorios para consolidar la inmunización de 750 mil personas]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:02:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Banderas de aglomeración y operativos nocturnos: verano en Punta del Este en pandemia
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/banderas-de-aglomeracion-y-operativos-nocturnos-verano-en-punta-del-este-en-pandemia-2021131590</link>
+			<guid>https://www.elobservador.com.uy/nota/banderas-de-aglomeracion-y-operativos-nocturnos-verano-en-punta-del-este-en-pandemia-2021131590</guid>
+			<description><![CDATA[Las aglomeraciones en Punta del Este preocupan a efectivos de Prefectura y  de la policía, que señalan el poco respeto a las disposiciones sanitarias y su rol limitado a la exhortación, que no siempre es acatada]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:02:51 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Las cuentas de Adeom: lo que entra, lo que sale y lo que queda en el sindicato
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/las-cuentas-de-adeom-lo-que-entra-lo-que-sale-y-lo-que-queda-en-el-sindicato-2020121413100</link>
+			<guid>https://www.elobservador.com.uy/nota/las-cuentas-de-adeom-lo-que-entra-lo-que-sale-y-lo-que-queda-en-el-sindicato-2020121413100</guid>
+			<description><![CDATA[La Intendencia de Montevideo transfiere cada mes en el entorno de $4 millones al gremio por concepto de cuota sindical]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:02:51 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Uriarte: “Tenemos que ser sumamente celosos de mantenernos sanos y activos” 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/uriarte-tenemos-que-ser-sumamente-celosos-de-mantenernos-sanos-y-activos--2021145052</link>
+			<guid>https://www.elobservador.com.uy/nota/uriarte-tenemos-que-ser-sumamente-celosos-de-mantenernos-sanos-y-activos--2021145052</guid>
+			<description><![CDATA[Carlos María Uriarte, ministro de Ganadería, Agricultura y Pesca, en entrevista con El Observador detalló cómo se batalló contra dos emergencias, puso el foco en el valor de librar a las cadenas agroalimentarias del covid-19 y señaló los principales deberes para 2021]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:00:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Cómo se convirtió "confinamiento" en la palabra del año 2020? 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-como-se-convirtio-confinamiento-en-la-palabra-del-ano-2020--2021145052</link>
+			<guid>https://www.elobservador.com.uy/nota/-como-se-convirtio-confinamiento-en-la-palabra-del-ano-2020--2021145052</guid>
+			<description><![CDATA[La Fundación del Español urgente seleccionó al término como la palabra del año, pero, ¿cómo se llega a esa decisión? ]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:00:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Reforma del Sistema de Seguridad Social
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/reforma-del-sistema-de-seguridad-social-2021145052</link>
+			<guid>https://www.elobservador.com.uy/nota/reforma-del-sistema-de-seguridad-social-2021145052</guid>
+			<description><![CDATA[Carta del contador Javier Forte Rodino                                 ]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:00:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿La globalización nos hace más libres?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-la-globalizacion-nos-hace-mas-libres--2021145052</link>
+			<guid>https://www.elobservador.com.uy/nota/-la-globalizacion-nos-hace-mas-libres--2021145052</guid>
+			<description><![CDATA[Carta del lector Bernardo Camou                                                         ]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:00:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Pronostican récord de producción de carne de ave a nivel mundial
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/pronostican-record-de-produccion-de-carne-de-ave-a-nivel-mundial-2021145052</link>
+			<guid>https://www.elobservador.com.uy/nota/pronostican-record-de-produccion-de-carne-de-ave-a-nivel-mundial-2021145052</guid>
+			<description><![CDATA[En Uruguay, 2020 cerró con un pollo más caro para el consumidor y fuerte aumento de importaciones]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:00:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Fiscal Gómez logró el doble de imputaciones por homicidios que Morales en 2019
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/fiscal-gomez-logro-el-doble-de-imputaciones-por-homicidios-que-morales-en-2019-2021145052</link>
+			<guid>https://www.elobservador.com.uy/nota/fiscal-gomez-logro-el-doble-de-imputaciones-por-homicidios-que-morales-en-2019-2021145052</guid>
+			<description><![CDATA[Ese año logró 80 imputaciones mientras la fiscal de 2º Turno logró 44 formalizaciones penales]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:00:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Propietarios mantienen precios de apartamentos y proceso de venta se alarga 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/propietarios-mantienen-precios-de-apartamentos-y-proceso-de-venta-se-alarga--2021145052</link>
+			<guid>https://www.elobservador.com.uy/nota/propietarios-mantienen-precios-de-apartamentos-y-proceso-de-venta-se-alarga--2021145052</guid>
+			<description><![CDATA[El Índice de Precios de Oferta de Inmuebles de El Observador (IPOI-EO) tuvo una baja mínima en noviembre]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:00:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Sánchez: "El gobierno no busca el diálogo ni los acuerdos ni mucho menos cerrar grietas"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/sanchez-el-gobierno-no-busca-el-dialogo-ni-los-acuerdos-ni-mucho-menos-cerrar-grietas--2021145052</link>
+			<guid>https://www.elobservador.com.uy/nota/sanchez-el-gobierno-no-busca-el-dialogo-ni-los-acuerdos-ni-mucho-menos-cerrar-grietas--2021145052</guid>
+			<description><![CDATA[El senador del Movimiento de Participación Popular dijo que el gobierno dio "señales muy complejas" y cerró un año en el que decidió "no dialogar"]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:00:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Judit, la dama del ajedrez
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/judit-la-dama-del-ajedrez-2021145052</link>
+			<guid>https://www.elobservador.com.uy/nota/judit-la-dama-del-ajedrez-2021145052</guid>
+			<description><![CDATA[La entrevista con la ajedrecista húngara Judit Polgar es parte del libro Claros y oscuros detrás de los genios, de Daniel Perchman, de inminente publicación; el libro consta de 32 entrevistas a los mejores jugadores de América y varios campeones mundiales]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:00:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La pandemia y el boom del comercio electrónico uruguayo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-pandemia-y-el-boom-del-comercio-electronico-uruguayo-2021145052</link>
+			<guid>https://www.elobservador.com.uy/nota/la-pandemia-y-el-boom-del-comercio-electronico-uruguayo-2021145052</guid>
+			<description><![CDATA[Cómo se gestionó el abrupto crecimiento que trajeron el distanciamiento social y el cierre temporal de comercios]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:00:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La pandemia no frenó al cannabis uruguayo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-pandemia-no-freno-al-cannabis-uruguayo-2021145052</link>
+			<guid>https://www.elobservador.com.uy/nota/la-pandemia-no-freno-al-cannabis-uruguayo-2021145052</guid>
+			<description><![CDATA[Uruguay exportó US$ 10 millones en flores con alto y bajo contenido de THC y aceites medicinales a nuevos mercados, desde 2019; todavía son pocas cantidades pero vienen creciendo, señala experto]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:00:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Pescar en Uruguay: dónde están los mejores piques
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/pescar-en-uruguay-donde-estan-los-mejores-piques-2021145052</link>
+			<guid>https://www.elobservador.com.uy/nota/pescar-en-uruguay-donde-estan-los-mejores-piques-2021145052</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Mon, 04 Jan 2021 08:00:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Primer fin de semana del año registró 14% más de circulación respecto al 2019
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/primer-fin-de-semana-del-ano-registro-14-mas-de-circulacion-respecto-al-2019-20211321432</link>
+			<guid>https://www.elobservador.com.uy/nota/primer-fin-de-semana-del-ano-registro-14-mas-de-circulacion-respecto-al-2019-20211321432</guid>
+			<description><![CDATA[El vocero de Policía Caminera informó que el jueves 31 de diciembre entre las 9 de la mañana y las 14 de la tarde, y el sábado 2 de enero en el mismo horario, pasaron por el peaje de Pando unos 3.000 vehículos por hora]]></description>
+			<pubDate>Mon, 04 Jan 2021 00:43:02 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Elecciones en EE.UU.: la llamada en la que Trump pide a un funcionario electoral de Georgia que vuelva a "examinar" el resultado en ese estado
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/elecciones-en-ee-uu-la-llamada-en-la-que-trump-pide-a-un-funcionario-electoral-de-georgia-que-vuelva-a-examinar-el-resultado-en-ese-estado-202113212619</link>
+			<guid>https://www.elobservador.com.uy/nota/elecciones-en-ee-uu-la-llamada-en-la-que-trump-pide-a-un-funcionario-electoral-de-georgia-que-vuelva-a-examinar-el-resultado-en-ese-estado-202113212619</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Mon, 04 Jan 2021 00:26:19 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Hay 559 casos nuevos de covid-19 en Uruguay y tres nuevos fallecimientos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/hay-559-casos-nuevos-de-covid-19-en-uruguay-y-tres-nuevos-fallecimientos-20211320122</link>
+			<guid>https://www.elobservador.com.uy/nota/hay-559-casos-nuevos-de-covid-19-en-uruguay-y-tres-nuevos-fallecimientos-20211320122</guid>
+			<description><![CDATA[El Sinae reportó casos nuevos en 18 departamentos y en total hay 5.494 casos activos en todo el país]]></description>
+			<pubDate>Sun, 03 Jan 2021 23:12:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Revelan que Trump le pidió a un alto funcionario electoral que "recalcule" los votos en Georgia para ganar
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/revelan-que-trump-le-pidio-a-un-alto-funcionario-electoral-que-recalcule-los-votos-en-georgia-para-ganar-202113195912</link>
+			<guid>https://www.elobservador.com.uy/nota/revelan-que-trump-le-pidio-a-un-alto-funcionario-electoral-que-recalcule-los-votos-en-georgia-para-ganar-202113195912</guid>
+			<description><![CDATA[El mandatario saliente le pidió por teléfono al funcionario que "encontrara" los 11.780 votos necesarios para ganar ese estado clave en la victoria del presidente electo Joe Biden]]></description>
+			<pubDate>Sun, 03 Jan 2021 22:59:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Más de 500 rechazos en puntos de ingreso al país desde restricción del gobierno
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/mas-de-500-rechazos-en-puntos-de-ingreso-al-pais-desde-restriccion-del-gobierno-202113184641</link>
+			<guid>https://www.elobservador.com.uy/nota/mas-de-500-rechazos-en-puntos-de-ingreso-al-pais-desde-restriccion-del-gobierno-202113184641</guid>
+			<description><![CDATA[Desde que rige la ley que restringe los ingresos al país, hubo 289 personas rechazadas en Río Branco, 231 vehículos en el Chuy y 29 a pie, 17 embarcaciones en Paysandú y 8 en Nueva Palmira]]></description>
+			<pubDate>Sun, 03 Jan 2021 21:46:41 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Manini Ríos citó a Tabaré Vázquez para rechazar el aborto 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/manini-rios-cito-a-tabare-vazquez-para-rechazar-el-aborto--20211317404</link>
+			<guid>https://www.elobservador.com.uy/nota/manini-rios-cito-a-tabare-vazquez-para-rechazar-el-aborto--20211317404</guid>
+			<description><![CDATA[El senador de Cabildo Abierto compartió las declaraciones de los obispos uruguayos sobre la legalización del aborto en Argentina con una referencia al veto que Vázquez le hizo al proyecto de ley uruguayo en 2008]]></description>
+			<pubDate>Sun, 03 Jan 2021 20:40:04 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Extraditar a Assange a Estados Unidos? La justicia británica se pronuncia este lunes
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-extraditar-a-assange-a-estados-unidos-la-justicia-britanica-se-pronuncia-este-lunes-202113161337</link>
+			<guid>https://www.elobservador.com.uy/nota/-extraditar-a-assange-a-estados-unidos-la-justicia-britanica-se-pronuncia-este-lunes-202113161337</guid>
+			<description><![CDATA[EEUU lo reclama para juzgarlo por espionaje y podría condenarlo a hasta 175 años de prisión]]></description>
+			<pubDate>Sun, 03 Jan 2021 19:13:37 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Trasladan tripulantes de barco de ANCAP por covid-19
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/trasladan-tripulantes-de-barco-de-ancap-por-covid-19-202113151157</link>
+			<guid>https://www.elobservador.com.uy/nota/trasladan-tripulantes-de-barco-de-ancap-por-covid-19-202113151157</guid>
+			<description><![CDATA[El remolcador Ky Chororó estaba en puerto junto a otro buque, cuya tripulación dio negativo al test]]></description>
+			<pubDate>Sun, 03 Jan 2021 18:11:57 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Por qué Chile apostó por la vacuna china?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-por-que-chile-aposto-por-la-vacuna-china--202113134353</link>
+			<guid>https://www.elobservador.com.uy/nota/-por-que-chile-aposto-por-la-vacuna-china--202113134353</guid>
+			<description><![CDATA[Este mes de enero llegan las primeras dosis desde la empresa Sinovac al país trasandino]]></description>
+			<pubDate>Sun, 03 Jan 2021 16:43:00 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
