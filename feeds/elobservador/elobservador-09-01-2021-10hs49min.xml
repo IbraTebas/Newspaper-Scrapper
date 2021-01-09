@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>El Observador - </title>
+		<description>El Observador</description>
+		<link>https://www.elobservador.com.uy</link>
+		<language>spa</language>
+		<lastBuildDate>Sat, 09 Jan 2021 13:46:43 GMT</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.mustang.cloud/</generator>
+		<copyright>Copyright (c) 2021</copyright>
+		<atom:link href="https://www.elobservador.com.uy/rss/elobservador.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>El Observador - </title>
+			<url>https://www.elobservador.com.uy/images/estructura/logo.png</url>
+			<link>https://www.elobservador.com.uy</link>
+		</image>
+
+		<item>
+			<title><![CDATA[
+				Petru, el bebé que superó el covid tras 70 días hospitalizado en España
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/petru-el-bebe-que-supero-el-covid-tras-70-dias-hospitalizado-en-espana-20211910027</link>
+			<guid>https://www.elobservador.com.uy/nota/petru-el-bebe-que-supero-el-covid-tras-70-dias-hospitalizado-en-espana-20211910027</guid>
+			<description><![CDATA[El niño nació en octubre "en perfectas condiciones" pero al irse a casa con su madre, se contagió de covid-19 a través de su hermano]]></description>
+			<pubDate>Sat, 09 Jan 2021 13:00:27 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Una tormenta de nieve sacude a España y dejó a Madrid cubierta de blanco
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/una-tormenta-de-nieve-sacude-a-espana-y-dejo-a-madrid-cubierta-de-blanco-20211994457</link>
+			<guid>https://www.elobservador.com.uy/nota/una-tormenta-de-nieve-sacude-a-espana-y-dejo-a-madrid-cubierta-de-blanco-20211994457</guid>
+			<description><![CDATA[Trineos y esquíes se vieron en la capital española, donde hubo varios servicios afectados y se suspendió el partido del Atlético Madrid]]></description>
+			<pubDate>Sat, 09 Jan 2021 12:44:57 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Ada Blackjack: la fascinante historia de cómo se salvó de la muerte la 'Robinson Crusoe' en el Ártico
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/ada-blackjack-la-fascinante-historia-de-como-se-salvo-de-la-muerte-la-robinson-crusoe-en-el-artico-2021199238</link>
+			<guid>https://www.elobservador.com.uy/nota/ada-blackjack-la-fascinante-historia-de-como-se-salvo-de-la-muerte-la-robinson-crusoe-en-el-artico-2021199238</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 09 Jan 2021 12:23:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Un avión con cerca de 50 pasajeros a bordo desaparece en Indonesia tras despegar
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/un-avion-con-cerca-de-50-pasajeros-a-bordo-desaparece-en-indonesia-tras-despegar-2021199040</link>
+			<guid>https://www.elobservador.com.uy/nota/un-avion-con-cerca-de-50-pasajeros-a-bordo-desaparece-en-indonesia-tras-despegar-2021199040</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 09 Jan 2021 12:00:40 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Qué se sabe hasta ahora de las dos nuevas variantes del coronavirus?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-que-se-sabe-hasta-ahora-de-las-dos-nuevas-variantes-del-coronavirus--2021199026</link>
+			<guid>https://www.elobservador.com.uy/nota/-que-se-sabe-hasta-ahora-de-las-dos-nuevas-variantes-del-coronavirus--2021199026</guid>
+			<description><![CDATA[Conocé todo lo que se sabe por ahora de las nuevas cepas del virus que afecta al mundo entero]]></description>
+			<pubDate>Sat, 09 Jan 2021 12:00:26 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Tormenta Filomena: las imágenes de la excepcional nevada que tiene al centro de España en alerta roja
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/tormenta-filomena-las-imagenes-de-la-excepcional-nevada-que-tiene-al-centro-de-espana-en-alerta-roja-2021198550</link>
+			<guid>https://www.elobservador.com.uy/nota/tormenta-filomena-las-imagenes-de-la-excepcional-nevada-que-tiene-al-centro-de-espana-en-alerta-roja-2021198550</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 09 Jan 2021 11:05:50 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Vacunas: cómo la vacunación masiva detuvo un virus asesino que amenazó a Escocia en 1950
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/vacunas-como-la-vacunacion-masiva-detuvo-un-virus-asesino-que-amenazo-a-escocia-en-1950-2021197028</link>
+			<guid>https://www.elobservador.com.uy/nota/vacunas-como-la-vacunacion-masiva-detuvo-un-virus-asesino-que-amenazo-a-escocia-en-1950-2021197028</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 09 Jan 2021 10:00:28 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Bushido: el libro que cambió la imagen de Japón en el mundo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/bushido-el-libro-que-cambio-la-imagen-de-japon-en-el-mundo-202119709</link>
+			<guid>https://www.elobservador.com.uy/nota/bushido-el-libro-que-cambio-la-imagen-de-japon-en-el-mundo-202119709</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 09 Jan 2021 10:00:09 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Los siete motivos que provocaron una disminución de los testeos, según Alfie 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/los-siete-motivos-que-provocaron-una-disminucion-de-los-testeos-segun-alfie--20211822150</link>
+			<guid>https://www.elobservador.com.uy/nota/los-siete-motivos-que-provocaron-una-disminucion-de-los-testeos-segun-alfie--20211822150</guid>
+			<description><![CDATA[Durante el Consejo de Ministros Salinas pidió tomar medidas específicas para los departamentos en “zona roja” y Uriarte solicitó excepciones al cierre de fronteras]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Los efectos del traslado de la aduana del Chuy: entre la falta de controles y el alivio económico
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/los-efectos-del-traslado-de-la-aduana-del-chuy-entre-la-falta-de-controles-y-el-alivio-economico-20211820450</link>
+			<guid>https://www.elobservador.com.uy/nota/los-efectos-del-traslado-de-la-aduana-del-chuy-entre-la-falta-de-controles-y-el-alivio-economico-20211820450</guid>
+			<description><![CDATA[El intendente de Rocha lo justificó por la necesidad de levantar “el estado de sitio del Chuy”, el director de Salud entiende que le preocupa los efectos sanitarios]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Poder Ejecutivo eleva pedido para ascender al rango de generales a tres coroneles 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/poder-ejecutivo-eleva-pedido-para-ascender-al-rango-de-generales-a-tres-coroneles--20211820490</link>
+			<guid>https://www.elobservador.com.uy/nota/poder-ejecutivo-eleva-pedido-para-ascender-al-rango-de-generales-a-tres-coroneles--20211820490</guid>
+			<description><![CDATA[La Comisión Permanente del Parlamento deberá darle el visto bueno]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Vergüenza ajena por Trump
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/verguenza-ajena-por-trump-20211819400</link>
+			<guid>https://www.elobservador.com.uy/nota/verguenza-ajena-por-trump-20211819400</guid>
+			<description><![CDATA[Deja más división interna que nunca desde la Guerra de Vietnam, porque dividir es la técnica básica de los populistas ]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				De Mujica para Mujica: solo le pido que arrime verdades
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/de-mujica-para-mujica-solo-le-pido-que-arrime-verdades-2021181970</link>
+			<guid>https://www.elobservador.com.uy/nota/de-mujica-para-mujica-solo-le-pido-que-arrime-verdades-2021181970</guid>
+			<description><![CDATA[En diciembre, pocos días antes de fin de año, se cumplieron 49 años del asesinato del peón rural Pascasio Báez ]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Los 10 días finales de Donald Trump
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/los-10-dias-finales-de-donald-trump-2021181920</link>
+			<guid>https://www.elobservador.com.uy/nota/los-10-dias-finales-de-donald-trump-2021181920</guid>
+			<description><![CDATA[Los demócratas cercan al mandatario luego del asalto de sus seguidores al Congreso y amenazan con nuevo juicio político]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Eduardo Ache: “Hay que dar oxígeno a las pymes, y el Estado tiene que proceder”
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/eduardo-ache-hay-que-dar-oxigeno-a-las-pymes-y-el-estado-tiene-que-proceder--20211818220</link>
+			<guid>https://www.elobservador.com.uy/nota/eduardo-ache-hay-que-dar-oxigeno-a-las-pymes-y-el-estado-tiene-que-proceder--20211818220</guid>
+			<description><![CDATA[El economista y asesor de Manini Ríos dice que el agravamiento de la pandemia obliga a profundizar las medidas para salvaguardar el entretejido emprendedor del país]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La "vedette" de las ventas, un primer día como vendedora y la caída abrupta del comercio
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-vedette-de-las-ventas-un-primer-dia-como-vendedora-y-la-caida-abrupta-del-comercio-20211818270</link>
+			<guid>https://www.elobservador.com.uy/nota/la-vedette-de-las-ventas-un-primer-dia-como-vendedora-y-la-caida-abrupta-del-comercio-20211818270</guid>
+			<description><![CDATA[Los shoppings y los locales del Centro cayeron un 25%, aunque en algunos rubros que tuvieron buenos resultados]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Detrás del asalto al Congreso: el verbo de Trump y el "cálculo" de los republicanos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/detras-del-asalto-al-congreso-el-verbo-de-trump-y-el-calculo-de-los-republicanos-20211812210</link>
+			<guid>https://www.elobservador.com.uy/nota/detras-del-asalto-al-congreso-el-verbo-de-trump-y-el-calculo-de-los-republicanos-20211812210</guid>
+			<description><![CDATA[La violenta irrupción en el Capitolio de los Estados Unidos pone en evidencia la interesada relación entre el presidente y su partido]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Las expectativas para 2021 del nuevo socio de Pantalla Uruguay
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/las-expectativas-para-2021-del-nuevo-socio-de-pantalla-uruguay-20211817390</link>
+			<guid>https://www.elobservador.com.uy/nota/las-expectativas-para-2021-del-nuevo-socio-de-pantalla-uruguay-20211817390</guid>
+			<description><![CDATA[Gastón Araujo Agronegocios se convirtió en socio del consorcio a fin de 2020]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Tragos al sol: las tendencias en bebidas de este verano
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/tragos-al-sol-las-tendencias-en-bebidas-de-este-verano-20211812350</link>
+			<guid>https://www.elobservador.com.uy/nota/tragos-al-sol-las-tendencias-en-bebidas-de-este-verano-20211812350</guid>
+			<description><![CDATA[Dos bartenders comparten las bebidas más pedidas y populares de la temporada]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Matemático del GACH: "Se necesitan medidas más fuertes para bajar la cantidad de casos por día"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/matematico-del-gach-se-necesitan-medidas-mas-fuertes-para-bajar-la-cantidad-de-casos-por-dia--2021172230</link>
+			<guid>https://www.elobservador.com.uy/nota/matematico-del-gach-se-necesitan-medidas-mas-fuertes-para-bajar-la-cantidad-de-casos-por-dia--2021172230</guid>
+			<description><![CDATA[El matemático Marcelo Fiori advierte que las vacaciones en el este pueden frenar la aceleración de contagios en Montevideo, pero la vuelta a la capital puede generar un efecto rebote]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Antía: “Hay una contradicción del gobierno en el mensaje general” hacia los extranjeros 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/antia-hay-una-contradiccion-del-gobierno-en-el-mensaje-general-hacia-los-extranjeros--20211619210</link>
+			<guid>https://www.elobservador.com.uy/nota/antia-hay-una-contradiccion-del-gobierno-en-el-mensaje-general-hacia-los-extranjeros--20211619210</guid>
+			<description><![CDATA[El intendente de Maldonado analizó la marcha de la temporada en pandemia, y dijo que insistirá al gobierno para que deje ingresar extranjeros en febrero ]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				De Tiburón a Llámame por tu nombre: las múltiples caras que tiene el cine en verano
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/de-tiburon-a-llamame-por-tu-nombre-las-multiples-caras-que-tiene-cine-en-verano-20211813240</link>
+			<guid>https://www.elobservador.com.uy/nota/de-tiburon-a-llamame-por-tu-nombre-las-multiples-caras-que-tiene-cine-en-verano-20211813240</guid>
+			<description><![CDATA[El verano tiene múltiples representaciones en la pantalla grande, que lo utiliza para contar el amor, la amistad, los vínculos familiares y hasta el terror]]></description>
+			<pubDate>Sat, 09 Jan 2021 08:04:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Efectos económicos de la pandemia: quiénes serán los ganadores y los perdedores en 2021
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/efectos-economicos-de-la-pandemia-quienes-seran-los-ganadores-y-los-perdedores-en-2021-20211931543</link>
+			<guid>https://www.elobservador.com.uy/nota/efectos-economicos-de-la-pandemia-quienes-seran-los-ganadores-y-los-perdedores-en-2021-20211931543</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 09 Jan 2021 06:15:43 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Asalto al Capitolio: qué se sabe de la muerte del policía Brian Sicknick en la invasión del Congreso
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/asalto-al-capitolio-que-se-sabe-de-la-muerte-del-policia-brian-sicknick-en-la-invasion-del-congreso-20211905050</link>
+			<guid>https://www.elobservador.com.uy/nota/asalto-al-capitolio-que-se-sabe-de-la-muerte-del-policia-brian-sicknick-en-la-invasion-del-congreso-20211905050</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 09 Jan 2021 03:50:50 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				"Hay un interés mayor en la gente en la búsqueda de propiedades con espacios abiertos"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-hay-un-interes-mayor-en-la-gente-en-la-busqueda-de-propiedades-con-espacios-abiertos--202118224449</link>
+			<guid>https://www.elobservador.com.uy/nota/-hay-un-interes-mayor-en-la-gente-en-la-busqueda-de-propiedades-con-espacios-abiertos--202118224449</guid>
+			<description><![CDATA[El rematador Mario Stefanoli contó a El Observador cómo observó el comportamiento de los remates judiciales, cómo vio los valores en las transacciones en bienes muebles e inmuebles y los cambios que trajo al rubro la pandemia por coronavirus]]></description>
+			<pubDate>Sat, 09 Jan 2021 01:44:49 GMT</pubDate>
+		</item>
+	</channel>
+</rss>

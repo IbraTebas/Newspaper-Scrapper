@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>El Observador - </title>
+		<description>El Observador</description>
+		<link>https://www.elobservador.com.uy</link>
+		<language>spa</language>
+		<lastBuildDate>Fri, 08 Jan 2021 12:47:33 GMT</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.mustang.cloud/</generator>
+		<copyright>Copyright (c) 2021</copyright>
+		<atom:link href="https://www.elobservador.com.uy/rss/elobservador.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>El Observador - </title>
+			<url>https://www.elobservador.com.uy/images/estructura/logo.png</url>
+			<link>https://www.elobservador.com.uy</link>
+		</image>
+
+		<item>
+			<title><![CDATA[
+				Murió un policía que fue herido durante el asalto al Congreso de EEUU
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/murio-un-policia-que-fue-herido-durante-el-asalto-al-congreso-de-eeuu-2021189384</link>
+			<guid>https://www.elobservador.com.uy/nota/murio-un-policia-que-fue-herido-durante-el-asalto-al-congreso-de-eeuu-2021189384</guid>
+			<description><![CDATA[Cuatro manifestantes murieron durante los enfrentamientos del miércoles en el Capitolio]]></description>
+			<pubDate>Fri, 08 Jan 2021 12:38:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Puede Trump ser destituido tras el violento asalto al Capitolio?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/enmienda-25-o-impeachment-puede-trump-ser-destituido-tras-el-violento-asalto-al-capitolio--20211719538</link>
+			<guid>https://www.elobservador.com.uy/nota/enmienda-25-o-impeachment-puede-trump-ser-destituido-tras-el-violento-asalto-al-capitolio--20211719538</guid>
+			<description><![CDATA[Para destituir al presidente de Estados Unidos hay dos mecanismos: el llamado juicio político -impeachment- o la enmienda número 25 de la Constitución, aseguran expertos]]></description>
+			<pubDate>Fri, 08 Jan 2021 12:10:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Emanuel, el niño que deslumbró al país con su violín
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/emanuel-el-nino-que-deslumbro-al-pais-con-su-violin-20211875852</link>
+			<guid>https://www.elobservador.com.uy/nota/emanuel-el-nino-que-deslumbro-al-pais-con-su-violin-20211875852</guid>
+			<description><![CDATA[Una anciana ciega se sorprendió al tocarlo, uno de los músicos más conocidos del país le ofreció dar un show juntos y el club del que es hincha lo invitó a conocer el estadio después de interpretar una canción de la barra brava]]></description>
+			<pubDate>Fri, 08 Jan 2021 12:00:46 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				El debate por la positividad: la visión del gobierno y la advertencia de los científicos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/el-debate-por-la-positividad-la-vision-del-gobierno-y-la-advertencia-de-los-cientificos-2021188232</link>
+			<guid>https://www.elobservador.com.uy/nota/el-debate-por-la-positividad-la-vision-del-gobierno-y-la-advertencia-de-los-cientificos-2021188232</guid>
+			<description><![CDATA[Mientras que el presidente Luis Lacalle Pou declaró que "la positividad no es el tema", los matemáticos advierten que puede indicar un subregistro y un "deterioro del control"]]></description>
+			<pubDate>Fri, 08 Jan 2021 11:23:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Asalto al Capitolio | Las palabras de Trump por las que lo acusan de incitar la invasión al Congreso
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/asalto-al-capitolio-las-palabras-de-trump-por-las-que-lo-acusan-de-incitar-la-invasion-al-congreso-2021188713</link>
+			<guid>https://www.elobservador.com.uy/nota/asalto-al-capitolio-las-palabras-de-trump-por-las-que-lo-acusan-de-incitar-la-invasion-al-congreso-2021188713</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 08 Jan 2021 11:07:13 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				
+                Coronavirus en Reino Unido | Nadie se puede imaginar lo difícil que puede llegar a ser el trabajo": el testimonio de una enfermera española que trabaja en una unidad de cuidados intensivos de Londres
+            
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-coronavirus-en-reino-unido-nadie-se-puede-imaginar-lo-dificil-que-puede-llegar-a-ser-el-trabajo-el-testimonio-de-una-enfermera-espanola-que-trabaja-en-una-unidad-de-cuidados-intensivos-de-londres--2021188243</link>
+			<guid>https://www.elobservador.com.uy/nota/-coronavirus-en-reino-unido-nadie-se-puede-imaginar-lo-dificil-que-puede-llegar-a-ser-el-trabajo-el-testimonio-de-una-enfermera-espanola-que-trabaja-en-una-unidad-de-cuidados-intensivos-de-londres--2021188243</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 08 Jan 2021 11:02:43 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Identifican dos medicamentos que reducen la mortalidad entre los pacientes más graves de covid-19
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/identifican-dos-medicamentos-que-reducen-la-mortalidad-entre-los-pacientes-mas-graves-de-covid-19-20211875119</link>
+			<guid>https://www.elobservador.com.uy/nota/identifican-dos-medicamentos-que-reducen-la-mortalidad-entre-los-pacientes-mas-graves-de-covid-19-20211875119</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 08 Jan 2021 10:51:19 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Elon Musk: los secretos del fundador de Tesla para convertirse en el nuevo hombre más rico del mundo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/elon-musk-los-6-secretos-del-fundador-de-tesla-para-alcanzar-el-exito-en-los-negocios-y-convertirse-en-el-nuevo-hombre-mas-rico-del-mundo-20211872455</link>
+			<guid>https://www.elobservador.com.uy/nota/elon-musk-los-6-secretos-del-fundador-de-tesla-para-alcanzar-el-exito-en-los-negocios-y-convertirse-en-el-nuevo-hombre-mas-rico-del-mundo-20211872455</guid>
+			<description><![CDATA[¿Cuáles son los secretos detrás del impresionante éxito empresarial de Elon Musk?]]></description>
+			<pubDate>Fri, 08 Jan 2021 10:24:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Inaceptable invasión inglesa en los usos y costumbres del Uruguay
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/inaceptable-invasion-inglesa-en-los-usos-y-costumbres-del-uruguay-20211720580</link>
+			<guid>https://www.elobservador.com.uy/nota/inaceptable-invasion-inglesa-en-los-usos-y-costumbres-del-uruguay-20211720580</guid>
+			<description><![CDATA[Cuando el colonialismo cultural sobrepasa todos los límites de la tolerancia ]]></description>
+			<pubDate>Fri, 08 Jan 2021 08:03:25 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Frigoríficos proponen baja en los valores para el ganado gordo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/frigorificos-proponen-baja-en-los-valores-para-el-ganado-gordo-20211720410</link>
+			<guid>https://www.elobservador.com.uy/nota/frigorificos-proponen-baja-en-los-valores-para-el-ganado-gordo-20211720410</guid>
+			<description><![CDATA[Se han alargado las entradas a planta y los precios dan un paso atrás; la oferta aún sigue siendo escasa con una disponibilidad de forraje castigada por el clima]]></description>
+			<pubDate>Fri, 08 Jan 2021 08:03:25 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Se estabiliza la producción de lana en Australia 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/se-estabiliza-la-produccion-de-lana-en-australia--20211720300</link>
+			<guid>https://www.elobservador.com.uy/nota/se-estabiliza-la-produccion-de-lana-en-australia--20211720300</guid>
+			<description><![CDATA[El bajo stock de ovejas continua obstaculizando la recuperación de la industria lanera]]></description>
+			<pubDate>Fri, 08 Jan 2021 08:03:25 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Cosse volvió a desmarcarse del gobierno y dejó en suspenso la extensión horaria en bares
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/cosse-volvio-a-desmarcarse-del-gobierno-y-dejo-en-suspenso-la-extension-horaria-en-bares-20211719370</link>
+			<guid>https://www.elobservador.com.uy/nota/cosse-volvio-a-desmarcarse-del-gobierno-y-dejo-en-suspenso-la-extension-horaria-en-bares-20211719370</guid>
+			<description><![CDATA[La intendenta de Montevideo solicitó a Salinas información acerca del impacto que tendría la medida]]></description>
+			<pubDate>Fri, 08 Jan 2021 08:03:25 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La calidad del agua de OSE, la lucha para reducir pérdidas y el gasto excesivo de su flota
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-calidad-del-agua-de-ose-la-lucha-para-reducir-perdidas-y-el-gasto-excesivo-de-su-flota-2021171930</link>
+			<guid>https://www.elobservador.com.uy/nota/la-calidad-del-agua-de-ose-la-lucha-para-reducir-perdidas-y-el-gasto-excesivo-de-su-flota-2021171930</guid>
+			<description><![CDATA[El presidente recordó que el ente tiene tuberías de más de 100 años en la capital y que no es sencillo reducir el recurso que no se factura ]]></description>
+			<pubDate>Fri, 08 Jan 2021 08:03:25 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				El inconsciente tiene buena memoria
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/el-inconsciente-tiene-buena-memoria-20211717170</link>
+			<guid>https://www.elobservador.com.uy/nota/el-inconsciente-tiene-buena-memoria-20211717170</guid>
+			<description><![CDATA[La vivencia de nuestros antepasados quedan impregnados como huellas en el árbol familiar, y afectan la crianza de nuestros hijos]]></description>
+			<pubDate>Fri, 08 Jan 2021 08:03:25 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Cómo se va a reforzar la cantidad de tests y por qué la positividad importa
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/como-se-va-a-reforzar-la-cantidad-de-tests-y-por-que-la-positividad-importa-20211714470</link>
+			<guid>https://www.elobservador.com.uy/nota/como-se-va-a-reforzar-la-cantidad-de-tests-y-por-que-la-positividad-importa-20211714470</guid>
+			<description><![CDATA[El gobierno apuesta a los tests antigénicos y la técnica LAMP para reforzar el testeo en Montevideo, Canelones y Rivera]]></description>
+			<pubDate>Fri, 08 Jan 2021 08:03:25 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Preocupado por cifras de trabajo informal, el gobierno evalúa nuevas medidas "graduales" 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/preocupado-por-cifras-de-trabajo-informal-el-gobierno-evalua-nuevas-medidas-graduales--20211715120</link>
+			<guid>https://www.elobservador.com.uy/nota/preocupado-por-cifras-de-trabajo-informal-el-gobierno-evalua-nuevas-medidas-graduales--20211715120</guid>
+			<description><![CDATA[El ministro de Trabajo, Pablo Mieres, considera que hay que hacer un "análisis a fondo" de los "caminos posibles" para cambiar esta situación. ]]></description>
+			<pubDate>Fri, 08 Jan 2021 08:03:25 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Fiestas privadas y juntadas en Los Dedos: una noche de recorrida con el Cecoed por Punta del Este
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/fiestas-privadas-y-juntadas-en-los-dedos-una-noche-de-recorrida-con-el-cecoed-por-punta-del-este-20211518340</link>
+			<guid>https://www.elobservador.com.uy/nota/fiestas-privadas-y-juntadas-en-los-dedos-una-noche-de-recorrida-con-el-cecoed-por-punta-del-este-20211518340</guid>
+			<description><![CDATA[En un sola madrugada, el Centro Coordinador de Emergencia Departamental debió intervenir en cuatro residencias y exhortar a varios grupos de jóvenes congregados en la rambla a que se retiraran]]></description>
+			<pubDate>Fri, 08 Jan 2021 08:03:25 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Derecho de admisión en el deporte: hasta 15 años en lista negra para “infracción gravísima”
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/derecho-de-admision-en-el-deporte-hasta-por-15-anos-en-lista-negra-para-infraccion-gravisima--20211719130</link>
+			<guid>https://www.elobservador.com.uy/nota/derecho-de-admision-en-el-deporte-hasta-por-15-anos-en-lista-negra-para-infraccion-gravisima--20211719130</guid>
+			<description><![CDATA[Una nueva reglamentación del registro de ingresos establece gradualidad en la duración de las sanciones y mayor detalle en las causales y deroga decreto de 2016]]></description>
+			<pubDate>Fri, 08 Jan 2021 08:03:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Asalto al Capitolio: cómo Trump se quedó “solo” y por qué el ataque al Congreso puede generar un cisma en el Partido Republicano
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/asalto-al-capitolio-como-trump-se-quedo-solo-y-por-que-el-ataque-al-congreso-puede-generar-un-cisma-en-el-partido-republicano-20211823315</link>
+			<guid>https://www.elobservador.com.uy/nota/asalto-al-capitolio-como-trump-se-quedo-solo-y-por-que-el-ataque-al-congreso-puede-generar-un-cisma-en-el-partido-republicano-20211823315</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 08 Jan 2021 05:33:15 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Capitolio de Washington | Las imágenes que muestran las diferentes medidas seguridad en la protesta de los seguidores de Trump y en la de Black Lives Matter
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/capitolio-de-washington-las-imagenes-que-muestran-las-diferentes-medidas-seguridad-en-la-protesta-de-los-seguidores-de-trump-y-en-la-de-black-lives-matter-20211804352</link>
+			<guid>https://www.elobservador.com.uy/nota/capitolio-de-washington-las-imagenes-que-muestran-las-diferentes-medidas-seguridad-en-la-protesta-de-los-seguidores-de-trump-y-en-la-de-black-lives-matter-20211804352</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 08 Jan 2021 03:43:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Trump cambia de tono, condena el asalto al Capitolio y admite el final de su mandato
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/trump-cambia-de-tono-condena-el-asalto-al-capitolio-y-admite-el-final-de-su-mandato-202117223716</link>
+			<guid>https://www.elobservador.com.uy/nota/trump-cambia-de-tono-condena-el-asalto-al-capitolio-y-admite-el-final-de-su-mandato-202117223716</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 08 Jan 2021 01:37:16 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Trump dijo estar "escandalizado por la violencia" en Capitolio y que quiere transición "tranquila"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/trump-dice-estar-escandalizado-por-la-violencia-en-capitolio-y-que-quiere-una-transicion-tranquila-con-biden-202117222645</link>
+			<guid>https://www.elobservador.com.uy/nota/trump-dice-estar-escandalizado-por-la-violencia-en-capitolio-y-que-quiere-una-transicion-tranquila-con-biden-202117222645</guid>
+			<description><![CDATA[El presidente de los Estados Unidos hizo un llamado a la "reconciliación" tras asalto al Capitolio por parte de sus seguidores]]></description>
+			<pubDate>Fri, 08 Jan 2021 01:26:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Anuncian "cuarentena nocturna" en Argentina pero no todas las provincias adhieren
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/anuncian-cuarentena-nocturna-en-argentina-pero-no-todas-las-provincias-adhieren-20211722134</link>
+			<guid>https://www.elobservador.com.uy/nota/anuncian-cuarentena-nocturna-en-argentina-pero-no-todas-las-provincias-adhieren-20211722134</guid>
+			<description><![CDATA[Este viernes comenzará a regir luego de que el país superara los 13 mil casos diarios por tercera jornada consecutiva]]></description>
+			<pubDate>Fri, 08 Jan 2021 01:01:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Asalto al Capitolio | Guía visual de la invasión al Congreso de EE.UU. por parte de los seguidores de Trump
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/asalto-al-capitolio-guia-visual-de-la-invasion-al-congreso-de-ee-uu-por-parte-de-los-seguidores-de-trump-202117205057</link>
+			<guid>https://www.elobservador.com.uy/nota/asalto-al-capitolio-guia-visual-de-la-invasion-al-congreso-de-ee-uu-por-parte-de-los-seguidores-de-trump-202117205057</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Thu, 07 Jan 2021 23:50:57 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Soja toca valores máximos desde junio de 2014
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/soja-toca-valores-maximos-desde-junio-de-2014-202117203036</link>
+			<guid>https://www.elobservador.com.uy/nota/soja-toca-valores-maximos-desde-junio-de-2014-202117203036</guid>
+			<description><![CDATA[La soja alcanzó los US$ 500 por tonelada. Las miradas están puestas sobre los stocks en Estados Unidos, la producción en América del Sur y la demanda china]]></description>
+			<pubDate>Thu, 07 Jan 2021 23:30:36 GMT</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>El Observador - </title>
+		<description>El Observador</description>
+		<link>https://www.elobservador.com.uy</link>
+		<language>spa</language>
+		<lastBuildDate>Fri, 08 Jan 2021 21:53:48 GMT</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.mustang.cloud/</generator>
+		<copyright>Copyright (c) 2021</copyright>
+		<atom:link href="https://www.elobservador.com.uy/rss/elobservador.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>El Observador - </title>
+			<url>https://www.elobservador.com.uy/images/estructura/logo.png</url>
+			<link>https://www.elobservador.com.uy</link>
+		</image>
+
+		<item>
+			<title><![CDATA[
+				La foto de una hija y su madre antes de morir por covid-19 (y por qué la hija decidió difundirla)
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-foto-de-una-hija-y-su-madre-antes-de-morir-por-covid-19-y-por-que-la-hija-decidio-difundirla--2021159057</link>
+			<guid>https://www.elobservador.com.uy/nota/la-foto-de-una-hija-y-su-madre-antes-de-morir-por-covid-19-y-por-que-la-hija-decidio-difundirla--2021159057</guid>
+			<description><![CDATA[Anabel Sharma vio a su madre morir junto a ella en el hospital después de que ambas se contagiaron de covid-19]]></description>
+			<pubDate>Fri, 08 Jan 2021 21:50:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Natalia Oreiro volvió a cantar después de un año y lo hizo en una playa de Mar del Plata
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/natalia-oreiro-volvio-a-cantar-despues-de-un-ano-y-lo-hizo-en-una-playa-de-mar-del-plata-202118181157</link>
+			<guid>https://www.elobservador.com.uy/nota/natalia-oreiro-volvio-a-cantar-despues-de-un-ano-y-lo-hizo-en-una-playa-de-mar-del-plata-202118181157</guid>
+			<description><![CDATA[La uruguaya cantó una versión de Que digan lo que quieran, entre otros temas]]></description>
+			<pubDate>Fri, 08 Jan 2021 21:11:57 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Lanzan campaña de referéndum para derogar la ley urgente por completo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/lanzan-campana-de-referendum-para-derogar-la-ley-urgente-por-completo-20211818928</link>
+			<guid>https://www.elobservador.com.uy/nota/lanzan-campana-de-referendum-para-derogar-la-ley-urgente-por-completo-20211818928</guid>
+			<description><![CDATA[Un grupo de organizaciones promueven recurso distinto al impulsado por el FA y PIT-CNT]]></description>
+			<pubDate>Fri, 08 Jan 2021 21:09:28 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Precios de exportación de la industria cayeron 8% interanual en noviembre 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/precios-de-exportacion-de-la-industria-cayeron-8-interanual-en-noviembre--20211817200</link>
+			<guid>https://www.elobservador.com.uy/nota/precios-de-exportacion-de-la-industria-cayeron-8-interanual-en-noviembre--20211817200</guid>
+			<description><![CDATA[Si se toman en cuenta el total de los bienes de la economía, la baja fue de 1% en la medición mensual]]></description>
+			<pubDate>Fri, 08 Jan 2021 20:20:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Itaú estrena cortometraje sobre Punta del Este
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/itau-estrena-cortometraje-sobre-punta-del-este-20211817123</link>
+			<guid>https://www.elobservador.com.uy/nota/itau-estrena-cortometraje-sobre-punta-del-este-20211817123</guid>
+			<description><![CDATA[Comparte la mirada de quienes hacen Punta del Este todos los días]]></description>
+			<pubDate>Fri, 08 Jan 2021 20:01:23 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Uruguay segundo detrás de Argentina con más casos por millón de habitantes
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/uruguay-tiene-mas-casos-confirmados-por-millon-de-habitantes-que-brasil-y-chile-202118165625</link>
+			<guid>https://www.elobservador.com.uy/nota/uruguay-tiene-mas-casos-confirmados-por-millon-de-habitantes-que-brasil-y-chile-202118165625</guid>
+			<description><![CDATA[Uruguay registró 192,79 casos nuevos por día cada un millón de habitantes en una semana]]></description>
+			<pubDate>Fri, 08 Jan 2021 19:56:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Guardavidas de Punta del Este ya hicieron más rescates en playas que en todo el verano anterior
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/guardavidas-de-punta-del-este-ya-hicieron-mas-rescates-en-playas-que-en-todo-el-verano-anterior-202118165043</link>
+			<guid>https://www.elobservador.com.uy/nota/guardavidas-de-punta-del-este-ya-hicieron-mas-rescates-en-playas-que-en-todo-el-verano-anterior-202118165043</guid>
+			<description><![CDATA[En lo que va de la temporada los guardavidas de Punta del Este hicieron 30 rescates y 20 asistencias, superando a todo el verano anterior]]></description>
+			<pubDate>Fri, 08 Jan 2021 19:50:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Asalto al Capitolio: 3 claves para entender la crisis política que vive Estados Unidos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/asalto-al-capitolio-3-claves-para-entender-la-crisis-politica-que-vive-estados-unidos-20211816456</link>
+			<guid>https://www.elobservador.com.uy/nota/asalto-al-capitolio-3-claves-para-entender-la-crisis-politica-que-vive-estados-unidos-20211816456</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 08 Jan 2021 19:45:06 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Manifestación y asalto al Capitolio de EEUU dejó cinco muertos 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/manifestacion-y-asalto-al-capitolio-de-eeuu-dejo-cinco-muertos--202118164140</link>
+			<guid>https://www.elobservador.com.uy/nota/manifestacion-y-asalto-al-capitolio-de-eeuu-dejo-cinco-muertos--202118164140</guid>
+			<description><![CDATA[Una anciana murió baleada y envuelta en una bandera de Trump, un policía fue golpeado en la cabeza con un extintor, una mujer fue arrollada por una multitud, y dos hombres sufrieron ataques cardíacos]]></description>
+			<pubDate>Fri, 08 Jan 2021 19:41:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Hospital británico: creatividad para mantener distancia en las playas
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/hospital-britanico-creatividad-para-mantener-distancia-en-las-playas-202118155248</link>
+			<guid>https://www.elobservador.com.uy/nota/hospital-britanico-creatividad-para-mantener-distancia-en-las-playas-202118155248</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 08 Jan 2021 18:52:48 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Argentina evalúa reabrir exportaciones de maíz tras un acuerdo con productores
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/argentina-evalua-reabrir-exportaciones-de-maiz-tras-un-acuerdo-con-productores-202118154611</link>
+			<guid>https://www.elobservador.com.uy/nota/argentina-evalua-reabrir-exportaciones-de-maiz-tras-un-acuerdo-con-productores-202118154611</guid>
+			<description><![CDATA[Desde el Consejo Agroindustrial aseguraron que el abastecimiento de maíz para el mercado interno está garantizado]]></description>
+			<pubDate>Fri, 08 Jan 2021 18:46:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Los Simpsons predijeron la toma del Capitolio en EEUU; también adelantan otros eventos de 2021
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/los-simpsons-predijeron-la-toma-del-capitolio-en-eeuu-tambien-adelantan-otros-eventos-de-2021-202118154036</link>
+			<guid>https://www.elobservador.com.uy/nota/los-simpsons-predijeron-la-toma-del-capitolio-en-eeuu-tambien-adelantan-otros-eventos-de-2021-202118154036</guid>
+			<description><![CDATA[La serie de Matt Groening adelantó, en 1999, lo que pasó esta semana en Washington; las predicciones para el 2021, además, no son muy alentadoras]]></description>
+			<pubDate>Fri, 08 Jan 2021 18:40:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Uruguaya Bromyros pasa a manos de brasileña Kingspan Isoeste
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/uruguaya-bromyros-pasa-a-manos-de-brasilena-kingspan-isoeste-202118151753</link>
+			<guid>https://www.elobservador.com.uy/nota/uruguaya-bromyros-pasa-a-manos-de-brasilena-kingspan-isoeste-202118151753</guid>
+			<description><![CDATA[La firma, reconocida por su producto Espumaplast, cuenta con una planta en Montevideo y otra en Canelones]]></description>
+			<pubDate>Fri, 08 Jan 2021 18:17:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Los mercados gastronómicos, una tendencia que empezó en la capital y se extiende al este
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/los-mercados-gastronomicos-una-tendencia-que-empezo-en-la-capital-y-se-extiende-al-este-2021181508</link>
+			<guid>https://www.elobservador.com.uy/nota/los-mercados-gastronomicos-una-tendencia-que-empezo-en-la-capital-y-se-extiende-al-este-2021181508</guid>
+			<description><![CDATA[Nuevas propuestas del estilo se suman a algunas ya establecidas y mueven la oferta gastronómica de la costa]]></description>
+			<pubDate>Fri, 08 Jan 2021 18:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Trump anunció que no asistirá a la ceremonia de traspaso de mando de Biden
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/trump-anuncio-que-no-asistira-a-la-ceremonia-de-traspaso-de-mando-de-biden-202118143219</link>
+			<guid>https://www.elobservador.com.uy/nota/trump-anuncio-que-no-asistira-a-la-ceremonia-de-traspaso-de-mando-de-biden-202118143219</guid>
+			<description><![CDATA[Será el primer presidente desde 1869 que se niega a asistir a la investidura de su sucesor]]></description>
+			<pubDate>Fri, 08 Jan 2021 17:32:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Arbeleche dijo que en 2021 no se cumplirá con la meta de déficit fiscal prevista en Presupuesto
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/arbeleche-dijo-que-en-2021-el-gobierno-no-cumplira-con-meta-de-deficit-fiscal-prevista-en-presupuesto-202118142833</link>
+			<guid>https://www.elobservador.com.uy/nota/arbeleche-dijo-que-en-2021-el-gobierno-no-cumplira-con-meta-de-deficit-fiscal-prevista-en-presupuesto-202118142833</guid>
+			<description><![CDATA[La ministra de Economía anunció que el Fondo Coronavirus gastó US$ 625 millones en 2020]]></description>
+			<pubDate>Fri, 08 Jan 2021 17:28:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Los riesgos de la politización de la pandemia
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/los-riesgos-de-la-politizacion-de-la-pandemia-20211814224</link>
+			<guid>https://www.elobservador.com.uy/nota/los-riesgos-de-la-politizacion-de-la-pandemia-20211814224</guid>
+			<description><![CDATA[“El que se calienta pierde”, dice un viejo dicho muy usado en la política argentina. Y esta semana, el gobierno uruguayo pareció haberse enojado y, por tanto, haber perdido un poco]]></description>
+			<pubDate>Fri, 08 Jan 2021 17:22:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Asalto al Capitolio | "Fue desgarrador ver lo que estaba sucediendo": la opinión sobre lo sucedido en Washington de algunos ciudadanos en Estados Unidos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/asalto-al-capitolio-fue-desgarrador-ver-lo-que-estaba-sucediendo-la-opinion-sobre-lo-sucedido-en-washington-de-algunos-ciudadanos-en-estados-unidos-202118142152</link>
+			<guid>https://www.elobservador.com.uy/nota/asalto-al-capitolio-fue-desgarrador-ver-lo-que-estaba-sucediendo-la-opinion-sobre-lo-sucedido-en-washington-de-algunos-ciudadanos-en-estados-unidos-202118142152</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 08 Jan 2021 17:21:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Asalto al Capitolio: Trump anuncia que no asistirá a la toma de posesión de Joe Biden
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/asalto-al-capitolio-trump-anuncia-que-no-asistira-a-la-toma-de-posesion-de-joe-biden-20211814042</link>
+			<guid>https://www.elobservador.com.uy/nota/asalto-al-capitolio-trump-anuncia-que-no-asistira-a-la-toma-de-posesion-de-joe-biden-20211814042</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 08 Jan 2021 17:00:42 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Coronavirus | Reino Unido registra 1.325 muertos por covid-19, la mayor cifra diaria desde el inicio de la pandemia
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/coronavirus-reino-unido-registra-1-325-muertos-por-covid-19-la-mayor-cifra-diaria-desde-el-inicio-de-la-pandemia-202118135442</link>
+			<guid>https://www.elobservador.com.uy/nota/coronavirus-reino-unido-registra-1-325-muertos-por-covid-19-la-mayor-cifra-diaria-desde-el-inicio-de-la-pandemia-202118135442</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 08 Jan 2021 16:54:42 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Rombai y Agapornis se sumaron a uno de los mayores hits del verano
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/rombai-y-agapornis-se-sumaron-a-uno-de-los-mayores-hits-del-verano-202118133814</link>
+			<guid>https://www.elobservador.com.uy/nota/rombai-y-agapornis-se-sumaron-a-uno-de-los-mayores-hits-del-verano-202118133814</guid>
+			<description><![CDATA[Algunas de las bandas más populares de cumbia pop se juntaron para versionar uno de los temas que más suena este verano]]></description>
+			<pubDate>Fri, 08 Jan 2021 16:38:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				El entusiasmo por Bridgerton, la nueva serie de Netflix que arrasa, y la popularidad de los dramas de época
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/el-entusiasmo-por-bridgerton-la-nueva-serie-de-netflix-que-arrasa-y-la-popularidad-de-los-dramas-de-epoca-202118131737</link>
+			<guid>https://www.elobservador.com.uy/nota/el-entusiasmo-por-bridgerton-la-nueva-serie-de-netflix-que-arrasa-y-la-popularidad-de-los-dramas-de-epoca-202118131737</guid>
+			<description><![CDATA[La exitosa serie de Netflix es el último ejemplo de cómo las historias de palacios, aristócratas y romances siguen en lo más alto]]></description>
+			<pubDate>Fri, 08 Jan 2021 16:17:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Covid-19 en Reino Unido: "Ha sido uno de los peores turnos de mi vida"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/covid-19-en-reino-unido-ha-sido-uno-de-los-peores-turnos-de-mi-vida--20211813165</link>
+			<guid>https://www.elobservador.com.uy/nota/covid-19-en-reino-unido-ha-sido-uno-de-los-peores-turnos-de-mi-vida--20211813165</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 08 Jan 2021 16:16:05 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Uriarte y Bustillo se reunieron con el embajador chino para evaluar exportaciones
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/uriarte-y-bustillo-se-reunieron-con-embajador-chino-para-evaluar-exportaciones-202118124649</link>
+			<guid>https://www.elobservador.com.uy/nota/uriarte-y-bustillo-se-reunieron-con-embajador-chino-para-evaluar-exportaciones-202118124649</guid>
+			<description><![CDATA[Se acordó mantener la colaboración bilateral y se brindó información sobre medidas tomadas en establecimientos productivos]]></description>
+			<pubDate>Fri, 08 Jan 2021 15:46:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Cómo beneficia a las pequeñas empresas uruguayas la reglamentación del crowdfunding?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-como-beneficia-a-las-pequenas-empresas-uruguayas-la-reglamentacion-del-crowdfunding--20211812418</link>
+			<guid>https://www.elobservador.com.uy/nota/-como-beneficia-a-las-pequenas-empresas-uruguayas-la-reglamentacion-del-crowdfunding--20211812418</guid>
+			<description><![CDATA[La regulación que flexibiliza la emisión de valores de oferta pública busca fomentar el financiamiento colectivo]]></description>
+			<pubDate>Fri, 08 Jan 2021 15:41:08 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
