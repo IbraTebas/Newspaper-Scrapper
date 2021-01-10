@@ -15,6 +15,8 @@ def bulk_to_pandas(path_file):
     return df
 
 
+
+
 df=bulk_to_pandas('./feeds/elpais/Elpais-03-01-2021-22hs17min.xml')
 
 
