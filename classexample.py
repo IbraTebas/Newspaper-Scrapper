@@ -1,4 +1,4 @@
-from src.Parser import *
+from src.XML_Parser import *
 import pandas as pd
 pd.set_option('max_colwidth', None)
 
