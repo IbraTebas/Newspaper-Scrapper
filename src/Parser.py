@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-from src.News_class import *
+from src.News import *
 dict_month = {'Jan': "01", 'Feb':'02', 'Mar':'03','Apr': '04','May':'05', 'Jun':'06', 'Jul':'07', 'Aug':'08', 'Sep':'09', 'Oct':'10', 'Nov':'11', 'Dic':'12'}
 def format_date_elpais(date_elpais):
     day=date_elpais[0:2]
