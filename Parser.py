@@ -57,32 +57,11 @@ class XMLParser:
             parsing.append(new)
         return parsing
 
-# def main():
-#     print('starting class example usage ...')
-#     parser = XMLParser('Elpais-03-01-2021-22hs45min.xml')
-#     news = parser.parse()           #si le aplico list a news tengo el objeto buscado
-#     for n in news:
-#         print(n.title)
-#     print('process finished')
-
-
-# if __name__ == '__main__':
-#     main()
-
-# Sun, 03 Jan 2021 07:00:00
-#   lst=['title', 'description', 'pubDate', 'link', 'subtitle', 'category','categorySlug', 'parentCategorySlug', 'articleSlug', 'author', 'imageCaption']
 
 News=XMLParser('Elpais-03-01-2021-22hs45min.xml').parse()
-#
-# df = pd.DataFrame([t.__dict__ for t in News ])        ###linea fundamental, esto convierte los objetos de la clase (es decir las noticias) y las vierte en una pandas dataframe.
-#
-# df2=pd.DataFrame([vars(s) for s in News])              ###linea fundamental, esto convierte los objetos de la clase (es decir las noticias) y las vierte en una pandas dataframe variacion mas conservadora parece en terminso quer toma todo
 
-# df                                          ###se podria hacer lo siguiente para quedarse con las columnas que quieras: *****pd.DataFrame([vars(s) for s in signals], columns=['x', 'y'])***
-#
-# df
 import pandas as pd
 pd.set_option('max_colwidth', None)
-df2=pd.DataFrame([vars(s) for s in News])
-df2
+df=pd.DataFrame([vars(s) for s in News])
+df
 
