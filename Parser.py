@@ -29,7 +29,7 @@ class XMLParser:
         self.root = self.doc.getroot()
 
     def remove_unicode(self, text):
-        return text.replace("&nbsp;", "").replace('&gt', "").replace("<br>", "")
+        return text.replace("&nbsp;", "").replace('&gt', "").replace("<br>", "").replace("<i>", "")
 
 
     def parser_text(self, tag, element):
@@ -58,7 +58,7 @@ class XMLParser:
         return parsing
 
 
-News=XMLParser('Elpais-03-01-2021-22hs45min.xml').parse()
+News=XMLParser('./feeds/elpais/Elpais-07-01-2021-17hs56min.xml').parse()
 
 import pandas as pd
 pd.set_option('max_colwidth', None)
