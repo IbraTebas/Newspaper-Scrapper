@@ -62,6 +62,10 @@ News=XMLParser('Elpais-03-01-2021-22hs45min.xml').parse()
 
 import pandas as pd
 pd.set_option('max_colwidth', None)
-df=pd.DataFrame([vars(s) for s in News])
+
+#df = pd.DataFrame([t.__dict__ for t in News ]) can be used instead of the below.
+df=pd.DataFrame([vars(s) for s in News]) #pd.DataFrame([vars(s) for s in signals], columns=['x', 'y']) would take only x and y for the pandas df.
+
 df
+
 
