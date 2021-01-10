@@ -11,13 +11,13 @@ def main(path_file):
 
 def bulk_to_pandas(path_file):
     list_news_file = main(path_file)
-    df =  df=pd.DataFrame([vars(s) for s in  list_news_file])    
+    df = pd.DataFrame([vars(s) for s in  list_news_file])    
     return df
 
 
 
 
-df=bulk_to_pandas('./feeds/elpais/Elpais-03-01-2021-22hs17min.xml')
+df=bulk_to_pandas('./feeds/elpais/Elpais-08-01-2021-16hs59min.xml')
 
 
 
