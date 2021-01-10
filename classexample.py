@@ -1,13 +1,47 @@
 from src.XMLParser import XMLParser
-
-def main():
-    print('starting class example usage ...')
-    parser = XMLParser('./feeds/elpais/Elpais-03-01-2021-22hs17min.xml')
-    news = parser.parse()
-    for n in news:
-        print(n.title)
-    print('process finished')
+from src.Parser import *
+import pandas as pd
+pd.set_option('max_colwidth', None)
 
 
-if __name__ == '__main__':
-    main()
+def main(path_file):
+    parser = XMLParser(path_file)
+    list_news_file = parser.parse()
+    return list_news_file
+
+def bulk_to_pandas(path_file):
+    list_news_file = main(path_file)
+    df =  df=pd.DataFrame([vars(s) for s in  list_news_file])    
+    return df
+
+
+df=bulk_to_pandas('./feeds/elpais/Elpais-03-01-2021-22hs17min.xml')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#df = pd.DataFrame([t.__dict__ for t in  list_news_file ]) can be used instead of the below.
+#df=pd.DataFrame([vars(s) for s in  list_news_file]) #pd.DataFrame([vars(s) for s in  list_news_file], columns=['x', 'y']) would take only x and y for the pandas df.
+
+#df
+
+
+#if __name__ == '__main__':
+ #   main('./feeds/elpais/Elpais-03-01-2021-22hs17min.xml')
+ 
