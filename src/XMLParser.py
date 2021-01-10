@@ -9,10 +9,10 @@ class XMLParser:
         self.root = self.doc.getroot()
 
     def parse(self):
-        coco = []
+        list_news = []
         items = self.root.find('channel').findall('item')
         for child in items:
             new = News()
             new.title = child.find('title').text
-            coco.append(new)
-        return coco
+            list_news.append(new)
+        return list_news
