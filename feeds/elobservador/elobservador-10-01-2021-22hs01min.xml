@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>El Observador - </title>
+		<description>El Observador</description>
+		<link>https://www.elobservador.com.uy</link>
+		<language>spa</language>
+		<lastBuildDate>Mon, 11 Jan 2021 00:56:33 GMT</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.mustang.cloud/</generator>
+		<copyright>Copyright (c) 2021</copyright>
+		<atom:link href="https://www.elobservador.com.uy/rss/elobservador.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>El Observador - </title>
+			<url>https://www.elobservador.com.uy/images/estructura/logo.png</url>
+			<link>https://www.elobservador.com.uy</link>
+		</image>
+
+		<item>
+			<title><![CDATA[
+				Asalto al Capitolio: el plan de los demócratas para votar un 'impeachment' contra Trump
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/asalto-al-capitolio-el-plan-de-los-democratas-para-votar-un-impeachment-contra-trump-2021110205535</link>
+			<guid>https://www.elobservador.com.uy/nota/asalto-al-capitolio-el-plan-de-los-democratas-para-votar-un-impeachment-contra-trump-2021110205535</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sun, 10 Jan 2021 23:55:35 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Uruguay superó los 1.200 casos diarios de coronavirus
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/uruguay-supero-los-1-200-casos-diarios-de-coronavirus-2021110201725</link>
+			<guid>https://www.elobservador.com.uy/nota/uruguay-supero-los-1-200-casos-diarios-de-coronavirus-2021110201725</guid>
+			<description><![CDATA[Hay 97 pacientes internados en cuidados intensivos, según la información oficial]]></description>
+			<pubDate>Sun, 10 Jan 2021 23:17:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				COFE afirma que Salinas se contradice con dichos sobre contagios tras marchas de sindicatos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/cofe-afirma-que-salinas-se-contradice-con-dichos-sobre-contagios-tras-marchas-de-sindicatos-202111019395</link>
+			<guid>https://www.elobservador.com.uy/nota/cofe-afirma-que-salinas-se-contradice-con-dichos-sobre-contagios-tras-marchas-de-sindicatos-202111019395</guid>
+			<description><![CDATA[Joselo López dijo que las manifestaciones del ministro “solo siembran dudas y generan una grieta contra los trabajadores sin ningún tipo de sustento empírico”]]></description>
+			<pubDate>Sun, 10 Jan 2021 22:39:05 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Asalto al Capitolio | "Si esos manifestantes hubieran sido negros, ahora estaríamos hablando de más muertos"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/asalto-al-capitolio-si-esos-manifestantes-hubieran-sido-negros-ahora-estariamos-hablando-de-mas-muertos--2021110193720</link>
+			<guid>https://www.elobservador.com.uy/nota/asalto-al-capitolio-si-esos-manifestantes-hubieran-sido-negros-ahora-estariamos-hablando-de-mas-muertos--2021110193720</guid>
+			<description><![CDATA["Estaríamos ahora hablando de más muertos y de una respuesta violenta de la policía", asevera Eddie S. Glaude Jr, jefe del departamento de Estudios Afroestadounidenses de la Universidad de Princeton]]></description>
+			<pubDate>Sun, 10 Jan 2021 22:37:20 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Inumet anuncia tormentas fuertes para el lunes y descenso de temperatura
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/inumet-anuncia-tormentas-fuertes-para-el-lunes-y-descenso-de-temperatura-2021110173059</link>
+			<guid>https://www.elobservador.com.uy/nota/inumet-anuncia-tormentas-fuertes-para-el-lunes-y-descenso-de-temperatura-2021110173059</guid>
+			<description><![CDATA[Se esperan precipitaciones, caída de granizo, fuertes rachas de viento e intensa actividad eléctrica]]></description>
+			<pubDate>Sun, 10 Jan 2021 20:30:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Intendencia de Salto estableció nuevas medidas para evitar contagios de covid-19
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/intendencia-de-salto-establecio-nuevas-medidas-para-evitar-contagios-de-covid-19-2021110171434</link>
+			<guid>https://www.elobservador.com.uy/nota/intendencia-de-salto-establecio-nuevas-medidas-para-evitar-contagios-de-covid-19-2021110171434</guid>
+			<description><![CDATA[El intendente Andrés Lima anunció que la situación departamental será evaluada la próxima semana y se podrían estudiar modificaciones ]]></description>
+			<pubDate>Sun, 10 Jan 2021 20:14:34 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Bomberos combaten incendio en Sierra de las Ánimas; controlaron otro en Pueblo Gaucho
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/bomberos-combaten-incendio-en-sierra-de-las-animas-controlaron-otro-en-pueblo-gaucho-2021110165624</link>
+			<guid>https://www.elobservador.com.uy/nota/bomberos-combaten-incendio-en-sierra-de-las-animas-controlaron-otro-en-pueblo-gaucho-2021110165624</guid>
+			<description><![CDATA[El Departamento de Bomberos de Pan de Azúcar fue alertado sobre el fuego al mediodía, ahora, trabajan en el lugar diferentes brigadas]]></description>
+			<pubDate>Sun, 10 Jan 2021 19:56:24 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Qué significa lo ocurrido en el Capitolio para la imagen de EE.UU. en el mundo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/que-significa-lo-ocurrido-en-el-capitolio-para-la-imagen-de-ee-uu-en-el-mundo-202111014849</link>
+			<guid>https://www.elobservador.com.uy/nota/que-significa-lo-ocurrido-en-el-capitolio-para-la-imagen-de-ee-uu-en-el-mundo-202111014849</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sun, 10 Jan 2021 17:08:49 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Clausuran locales gastronómicos y dispersan dos fiestas privadas en Maldonado
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/clausuran-locales-gastronomicos-y-dispersan-2-fiestas-privadas-en-maldonado-2021110134825</link>
+			<guid>https://www.elobservador.com.uy/nota/clausuran-locales-gastronomicos-y-dispersan-2-fiestas-privadas-en-maldonado-2021110134825</guid>
+			<description><![CDATA[En lo que va del fin de semana se recibieron 11 llamados al 911 con denuncias por concentración ]]></description>
+			<pubDate>Sun, 10 Jan 2021 16:48:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Coco Chanel, a 50 años de su muerte: ícono de un estilo que no pasa de moda
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/icono-de-un-estilo-que-no-pasa-de-moda-20211105029</link>
+			<guid>https://www.elobservador.com.uy/nota/icono-de-un-estilo-que-no-pasa-de-moda-20211105029</guid>
+			<description><![CDATA[Gabrielle “Coco” Chanel cambió la vestimenta femenina y marcó el diseño hasta hoy, 50 años después de su muerte]]></description>
+			<pubDate>Sun, 10 Jan 2021 16:11:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Ministerio del Interior divulgó las cifras de delitos de los primeros diez meses de gobierno
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/ministerio-del-interior-divulgo-las-cifras-de-delitos-de-los-primeros-diez-meses-de-gobierno-202111013426</link>
+			<guid>https://www.elobservador.com.uy/nota/ministerio-del-interior-divulgo-las-cifras-de-delitos-de-los-primeros-diez-meses-de-gobierno-202111013426</guid>
+			<description><![CDATA[La cartera, a cargo de Jorge Larrañaga presentó los números de los primeros diez meses de la administración de Luis Lacalle Pou]]></description>
+			<pubDate>Sun, 10 Jan 2021 16:04:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				“Dejé a mi esposo después de 55 años de abusos”
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-deje-a-mi-esposo-despues-de-55-anos-de-abusos--2021110111050</link>
+			<guid>https://www.elobservador.com.uy/nota/-deje-a-mi-esposo-despues-de-55-anos-de-abusos--2021110111050</guid>
+			<description><![CDATA[Hay un grupo casi invisible entre las víctimas de abuso: el de las mujeres de edad avanzada]]></description>
+			<pubDate>Sun, 10 Jan 2021 15:48:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Efectos económicos de la pandemia: quiénes serán los ganadores y los perdedores 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/efectos-economicos-de-la-pandemia-quienes-seran-los-ganadores-y-los-perdedores-en-2021-20211931543</link>
+			<guid>https://www.elobservador.com.uy/nota/efectos-economicos-de-la-pandemia-quienes-seran-los-ganadores-y-los-perdedores-en-2021-20211931543</guid>
+			<description><![CDATA["Es probable que los grandes ganadores sean países como China y Corea del Sur", dice Steve Schifferes]]></description>
+			<pubDate>Sun, 10 Jan 2021 15:44:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Harry y Meghan Markle decidieron abandonar Twitter y Facebook
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/harry-y-meghan-markle-decidieron-abandonar-twitter-y-facebook-2021110121521</link>
+			<guid>https://www.elobservador.com.uy/nota/harry-y-meghan-markle-decidieron-abandonar-twitter-y-facebook-2021110121521</guid>
+			<description><![CDATA[La decisión de la pareja llega un año después de que anunciaran que se distanciaban de la monarquía británica para impulsar sus propios proyectos ]]></description>
+			<pubDate>Sun, 10 Jan 2021 15:15:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Las imágenes de la excepcional nevada que tiene al centro de España en alerta roja
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/tormenta-filomena-las-imagenes-de-la-excepcional-nevada-que-tiene-al-centro-de-espana-en-alerta-roja-2021198550</link>
+			<guid>https://www.elobservador.com.uy/nota/tormenta-filomena-las-imagenes-de-la-excepcional-nevada-que-tiene-al-centro-de-espana-en-alerta-roja-2021198550</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sun, 10 Jan 2021 14:28:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Localizan las cajas negras del Boeing que se estrelló en Indonesia
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/localizan-las-cajas-negras-del-boeing-que-se-estrello-en-indonesia-2021110112245</link>
+			<guid>https://www.elobservador.com.uy/nota/localizan-las-cajas-negras-del-boeing-que-se-estrello-en-indonesia-2021110112245</guid>
+			<description><![CDATA[Horas antes, equipos de buzos  habían hallado partes de cuerpos, restos de fuselaje del aparato y ropa frente a las costas de la capital indonesia. ]]></description>
+			<pubDate>Sun, 10 Jan 2021 14:22:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Por qué al psiquiatra Carl Jung probablemente le horrorizaría ver cómo interpretamos los conceptos que él creó?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-por-que-al-psiquiatra-carl-jung-probablemente-le-horrorizaria-ver-como-interpretamos-los-conceptos-que-el-creo--2021110105838</link>
+			<guid>https://www.elobservador.com.uy/nota/-por-que-al-psiquiatra-carl-jung-probablemente-le-horrorizaria-ver-como-interpretamos-los-conceptos-que-el-creo--2021110105838</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sun, 10 Jan 2021 13:58:38 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				No, Batman no participó en las protestas en el Capitolio
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/no-batman-no-participo-en-las-protestas-en-el-capitolio-2021110104059</link>
+			<guid>https://www.elobservador.com.uy/nota/no-batman-no-participo-en-las-protestas-en-el-capitolio-2021110104059</guid>
+			<description><![CDATA[El personaje no estuvo entre manifestantes pro-Trump en Washington, sino en 2020 en Filadelfia, según un chequeo realizado por AFP Factual]]></description>
+			<pubDate>Sun, 10 Jan 2021 13:40:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Luxemburgo retira a Uruguay de lista de países con autorización para viajes no esenciales
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/luxemburgo-retira-a-uruguay-de-lista-de-paises-con-autorizacion-para-viajes-no-esenciales-202111010247</link>
+			<guid>https://www.elobservador.com.uy/nota/luxemburgo-retira-a-uruguay-de-lista-de-paises-con-autorizacion-para-viajes-no-esenciales-202111010247</guid>
+			<description><![CDATA["Los ciudadanos de terceros países que tengan su residencia en Uruguay no serán autorizados a ingresar al territorio de Luxemburgo a partir del 11 de enero", informó el ministerio de Relaciones Exteriores]]></description>
+			<pubDate>Sun, 10 Jan 2021 13:24:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Buquebus: se realizaron viajes humanitarios con personas varadas 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/buquebus-se-realizaron-viajes-humanitarios-con-personas-varadas--202111010176</link>
+			<guid>https://www.elobservador.com.uy/nota/buquebus-se-realizaron-viajes-humanitarios-con-personas-varadas--202111010176</guid>
+			<description><![CDATA[Este sábado la empresa llevó a Buenos Aires a 30 pasajeros y regresó en la noche con 785 personas]]></description>
+			<pubDate>Sun, 10 Jan 2021 13:17:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Los gemelos idénticos no lo son tanto, según un estudio
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/los-gemelos-identicos-no-lo-son-tanto-segun-un-estudio-20211109101</link>
+			<guid>https://www.elobservador.com.uy/nota/los-gemelos-identicos-no-lo-son-tanto-segun-un-estudio-20211109101</guid>
+			<description><![CDATA[Las diferencias genéticas entre gemelos monocigóticos pueden aparecer muy pronto, desde el desarrollo embrionario, según una investigación científica]]></description>
+			<pubDate>Sun, 10 Jan 2021 12:11:41 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Vacuna contra covid-19: por qué Europa ha empezado tan despacio la inmunización
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/vacuna-contra-la-covid-19-por-que-en-europa-ha-empezado-tan-despacio-la-inmunizacion-202111024020</link>
+			<guid>https://www.elobservador.com.uy/nota/vacuna-contra-la-covid-19-por-que-en-europa-ha-empezado-tan-despacio-la-inmunizacion-202111024020</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sun, 10 Jan 2021 11:40:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Por qué los copos de nieve son simétricos y hexagonales? La pregunta que inspiró a Kepler una conjetura no resuelta en siglos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-por-que-los-copos-de-nieve-son-simetricos-y-hexagonales-la-pregunta-que-inspiro-a-kepler-una-conjetura-no-resuelta-en-siglos-202111083954</link>
+			<guid>https://www.elobservador.com.uy/nota/-por-que-los-copos-de-nieve-son-simetricos-y-hexagonales-la-pregunta-que-inspiro-a-kepler-una-conjetura-no-resuelta-en-siglos-202111083954</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sun, 10 Jan 2021 11:39:54 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Cómo el "Feierabend" ayuda a los alemanes a desconectarse del trabajo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/como-el-feierabend-ayuda-a-los-alemanes-a-desconectarse-del-trabajo-202111071215</link>
+			<guid>https://www.elobservador.com.uy/nota/como-el-feierabend-ayuda-a-los-alemanes-a-desconectarse-del-trabajo-202111071215</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sun, 10 Jan 2021 10:12:15 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Qué números usaban los antiguos griegos cuando hacían sus asombrosos descubrimientos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/que-numeros-usaban-los-antiguos-griegos-cuando-hacian-sus-asombrosos-descubrimientos-20211107123</link>
+			<guid>https://www.elobservador.com.uy/nota/que-numeros-usaban-los-antiguos-griegos-cuando-hacian-sus-asombrosos-descubrimientos-20211107123</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sun, 10 Jan 2021 10:12:03 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
