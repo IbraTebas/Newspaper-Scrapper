@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+	<title>Montevideo Portal. Columnas de opinión</title>
+	<link>https://www.montevideo.com.uy</link>
+	<description>Montevideo Portal. Columnas de opinión</description>
+	<image>
+		<url>http://servicios.montevideo.com.uy/mvdcomm_rss.gif</url>
+		<title>Montevideo Portal - Destacados</title>
+		<link>https://www.montevideo.com.uy</link>
+	</image>
+ 	<item>
+		<title>Opinión | Forestación: ordenar si, hacer daño no</title>
+		<link>https://www.montevideo.com.uy/auc.aspx?775272</link>
+		<description>
+		<![CDATA[<a href="https://www.montevideo.com.uy/auc.aspx?775272"><img border="0" src="https://imagenes.montevideo.com.uy/imgnoticias/201404/_W620/445210.jpg" alt="" /></a><br /><br/>Está bien que no se foreste tierra que tiene usos potenciales mejores para el país. No está bien que lo que es de prioridad forestal no se foreste por simple determinación política
+ ]]>
+</description>
+		<pubDate>Mon, 11 Jan 2021 12:26:00 -0200</pubDate>
+		<dc:creator>Montevideo Portal</dc:creator>
+		<category>Sergio Botana</category>
+		<guid isPermaLink="true">https://www.montevideo.com.uy/auc.aspx?775272</guid>
+	</item>	<item>
+		<title>Opinión | Los nuevos visigodos vuelven a tomar el Capitolio</title>
+		<link>https://www.montevideo.com.uy/auc.aspx?775098</link>
+		<description>
+		<![CDATA[<a href="https://www.montevideo.com.uy/auc.aspx?775098"><img border="0" src="https://imagenes.montevideo.com.uy/imgnoticias/202001/_W620/716720.jpg" alt="EFE / EPA / Micheal Reynolds" /></a><br /><br/>La democracia necesita un terreno común en el que puedan encontrarse y convivir los diferentes; ese terreno es el de la verdad y la ley. Cuando se desconoce una u otra, el resultado es el conflicto ]]>
+</description>
+		<pubDate>Fri, 08 Jan 2021 15:19:00 -0200</pubDate>
+		<dc:creator>Montevideo Portal</dc:creator>
+		<category>Ope Pasquet</category>
+		<guid isPermaLink="true">https://www.montevideo.com.uy/auc.aspx?775098</guid>
+	</item>	<item>
+		<title>Opinión | Israel se perfila como el primer país que saldrá del Coronavirus</title>
+		<link>https://www.montevideo.com.uy/auc.aspx?775053</link>
+		<description>
+		<![CDATA[<a href="https://www.montevideo.com.uy/auc.aspx?775053"><img border="0" src="https://imagenes.montevideo.com.uy/imgnoticias/202101/_W620/749821.jpg" alt="" /></a><br /><br/> ]]>
+</description>
+		<pubDate>Fri, 08 Jan 2021 09:17:00 -0200</pubDate>
+		<dc:creator>Montevideo Portal</dc:creator>
+		<category>SIN CATEGORIZAR</category>
+		<guid isPermaLink="true">https://www.montevideo.com.uy/auc.aspx?775053</guid>
+	</item>	<item>
+		<title>Opinión | Uruguay y el FMI</title>
+		<link>https://www.montevideo.com.uy/auc.aspx?773894</link>
+		<description>
+		<![CDATA[<a href="https://www.montevideo.com.uy/auc.aspx?773894"><img border="0" src="https://imagenes.montevideo.com.uy/imgnoticias/201907/_W620/699853.jpg" alt="" /></a><br /><br/>Los uruguayos tenemos bastante que estudiar y afirmar sobre nuestras relaciones con el FMI. ]]>
+</description>
+		<pubDate>Wed, 23 Dec 2020 11:25:00 -0200</pubDate>
+		<dc:creator>Montevideo Portal</dc:creator>
+		<category>Danilo Astori</category>
+		<guid isPermaLink="true">https://www.montevideo.com.uy/auc.aspx?773894</guid>
+	</item>	<item>
+		<title>Opinión | Desorientados y empecinados</title>
+		<link>https://www.montevideo.com.uy/auc.aspx?773690</link>
+		<description>
+		<![CDATA[<a href="https://www.montevideo.com.uy/auc.aspx?773690"><img border="0" src="https://imagenes.montevideo.com.uy/imgnoticias/202012/_W620/748574.jpg" alt="Víctor Ballesteros / Unsplash" /></a><br /><br/>Así parecen los últimos movimientos políticos del partido de oposición en nuestro país. ]]>
+</description>
+		<pubDate>Mon, 21 Dec 2020 10:36:00 -0200</pubDate>
+		<dc:creator>Montevideo Portal</dc:creator>
+		<category>Pablo Mieres</category>
+		<guid isPermaLink="true">https://www.montevideo.com.uy/auc.aspx?773690</guid>
+	</item> 
+</channel>
+</rss>
