@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>El Observador - </title>
+		<description>El Observador</description>
+		<link>https://www.elobservador.com.uy</link>
+		<language>spa</language>
+		<lastBuildDate>Sat, 16 Jan 2021 16:37:56 GMT</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.mustang.cloud/</generator>
+		<copyright>Copyright (c) 2021</copyright>
+		<atom:link href="https://www.elobservador.com.uy/rss/elobservador.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>El Observador - </title>
+			<url>https://www.elobservador.com.uy/images/estructura/logo.png</url>
+			<link>https://www.elobservador.com.uy</link>
+		</image>
+
+		<item>
+			<title><![CDATA[
+				La cifra de fallecidos por covid-19 superó los dos millones en el mundo 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-cifra-de-fallecidos-por-covid-19-supero-los-dos-millones-en-el-mundo--2021116123819</link>
+			<guid>https://www.elobservador.com.uy/nota/la-cifra-de-fallecidos-por-covid-19-supero-los-dos-millones-en-el-mundo--2021116123819</guid>
+			<description><![CDATA[La OMS alertó de la situación catastrófica en Brasil, mientras que Europa supera los 30 millones de contagios ]]></description>
+			<pubDate>Sat, 16 Jan 2021 15:38:19 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Qué es la "singularidad", el misterio en el corazón de los agujeros negros
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/que-es-la-singularidad-el-misterio-en-el-corazon-de-los-agujeros-negros-2021116123044</link>
+			<guid>https://www.elobservador.com.uy/nota/que-es-la-singularidad-el-misterio-en-el-corazon-de-los-agujeros-negros-2021116123044</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 16 Jan 2021 15:30:44 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				India inició una megacampaña de vacunación contra el covid-19
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/india-inicio-una-megacampana-de-vacunacion-contra-el-covid-19-2021116122042</link>
+			<guid>https://www.elobservador.com.uy/nota/india-inicio-una-megacampana-de-vacunacion-contra-el-covid-19-2021116122042</guid>
+			<description><![CDATA[El segundo país más poblado del mundo espera vacunar a 300 millones de los 1.300 millones de habitantes para julio]]></description>
+			<pubDate>Sat, 16 Jan 2021 15:20:42 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Dustin Higgs: la última ejecución federal de la presidencia de Donald Trump en EE.UU.
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/dustin-higgs-la-ultima-ejecucion-federal-de-la-presidencia-de-donald-trump-en-ee-uu--2021116113147</link>
+			<guid>https://www.elobservador.com.uy/nota/dustin-higgs-la-ultima-ejecucion-federal-de-la-presidencia-de-donald-trump-en-ee-uu--2021116113147</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 16 Jan 2021 14:31:47 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Cinco muertos dejó un grave accidente de tránsito en San Carlos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/cinco-muertos-dejo-un-grave-accidente-de-transito-en-san-carlos-2021116111040</link>
+			<guid>https://www.elobservador.com.uy/nota/cinco-muertos-dejo-un-grave-accidente-de-transito-en-san-carlos-2021116111040</guid>
+			<description><![CDATA[Un choque frontal de dos vehículos se produjo en la ruta 39, en el acceso a la ciudad de San Carlos, en Maldonado]]></description>
+			<pubDate>Sat, 16 Jan 2021 14:10:40 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Detectan en Argentina a un viajero con la variante del SARS-CoV-2 del Reino Unido
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/detectan-en-argentina-a-un-viajero-que-arribo-con-la-variante-del-sars-cov-2-del-reino-unido-202111610652</link>
+			<guid>https://www.elobservador.com.uy/nota/detectan-en-argentina-a-un-viajero-que-arribo-con-la-variante-del-sars-cov-2-del-reino-unido-202111610652</guid>
+			<description><![CDATA[La novedad la informó Roberto Salvarezza, ministro de Ciencia, Tecnología e Innovación en Argentina; el viajero llegó desde Alemania]]></description>
+			<pubDate>Sat, 16 Jan 2021 13:06:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Cómo logró Arquímedes contar todos los granos de arena del Universo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/como-logro-arquimedes-contar-todos-los-granos-de-arena-del-universo-20211169819</link>
+			<guid>https://www.elobservador.com.uy/nota/como-logro-arquimedes-contar-todos-los-granos-de-arena-del-universo-20211169819</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 16 Jan 2021 12:08:19 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Los beneficios de tener muchos amantes (si es que puedes manejarlo)
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/los-beneficios-de-tener-muchos-amantes-si-es-que-puedes-manejarlo--202111682229</link>
+			<guid>https://www.elobservador.com.uy/nota/los-beneficios-de-tener-muchos-amantes-si-es-que-puedes-manejarlo--202111682229</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 16 Jan 2021 11:22:29 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Asalto al Capitolio: las pistas sobre cómo el ataque no fue tan espontáneo 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/asalto-al-capitolio-las-pistas-sobre-como-el-ataque-no-fue-tan-espontaneo-y-las-sospechas-de-que-hubo-ayuda-desde-dentro--202111673047</link>
+			<guid>https://www.elobservador.com.uy/nota/asalto-al-capitolio-las-pistas-sobre-como-el-ataque-no-fue-tan-espontaneo-y-las-sospechas-de-que-hubo-ayuda-desde-dentro--202111673047</guid>
+			<description><![CDATA[Este viernes se reveló que la investigación apunta a que el objetivo de la turba era "secuestrar y asesinar a legisladores"]]></description>
+			<pubDate>Sat, 16 Jan 2021 10:30:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Gobierno busca "aterrizar" negociaciones con cuatro laboratorios para comprar vacunas
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/gobierno-busca-aterrizar-negociaciones-con-cuatro-laboratorios-para-comprar-vacunas-20211152230</link>
+			<guid>https://www.elobservador.com.uy/nota/gobierno-busca-aterrizar-negociaciones-con-cuatro-laboratorios-para-comprar-vacunas-20211152230</guid>
+			<description><![CDATA[Los contagios no ceden y Uruguay ingresó en zona roja según el Índice de Harvard]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La candidatura de Carámbula vuelve a tomar fuerza para suceder a Miranda 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-candidatura-de-carambula-vuelve-a-tomar-fuerza-para-suceder-a-miranda--202111420490</link>
+			<guid>https://www.elobservador.com.uy/nota/la-candidatura-de-carambula-vuelve-a-tomar-fuerza-para-suceder-a-miranda--202111420490</guid>
+			<description><![CDATA[Varios dirigentes del MPP, el Partido Comunista y el Socialista apoyan la candidatura del expresidente de ASSE ]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				GACH evalúa su “forma de trabajo” y analiza informes
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/gach-evalua-su-forma-de-trabajo-y-analiza-informes-202111516460</link>
+			<guid>https://www.elobservador.com.uy/nota/gach-evalua-su-forma-de-trabajo-y-analiza-informes-202111516460</guid>
+			<description><![CDATA[Los científicos que asesoran al gobierno en la gestión de la pandemia mantendrán una reunión virtual para analizar inquietudes y “refinar” su funcionamiento ]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Entre la expectativa y la cautela: qué esperar cuando empiece la vacunación
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/entre-la-expectativa-y-la-cautela-que-esperar-cuando-empiece-la-vacunacion-202111520380</link>
+			<guid>https://www.elobservador.com.uy/nota/entre-la-expectativa-y-la-cautela-que-esperar-cuando-empiece-la-vacunacion-202111520380</guid>
+			<description><![CDATA[Expertos destacan impacto de inmunizar a población de riesgo, pero señalan que es temprano para decir en qué momento se podrán relajar las medidas ]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Rebajas en la Calle 20 y La Barra: el "boom" de los fines de semanas y la nostalgia por argentinos 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/rebajas-en-la-calle-20-y-la-barra-el-boom-de-los-fines-de-semanas-y-la-nostalgia-por-argentinos--202111519120</link>
+			<guid>https://www.elobservador.com.uy/nota/rebajas-en-la-calle-20-y-la-barra-el-boom-de-los-fines-de-semanas-y-la-nostalgia-por-argentinos--202111519120</guid>
+			<description><![CDATA[Punta del Este cambió sus hábitos de verano y empresarios extrañan “turismo de elite”; avizoran “el invierno más largo de la historia” ]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Gobierno argentino y el campo al borde de la guerra en medio de un boom de precios
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/gobierno-argentino-y-el-campo-al-borde-de-la-guerra-en-medio-de-un-boom-de-precios-202111519440</link>
+			<guid>https://www.elobservador.com.uy/nota/gobierno-argentino-y-el-campo-al-borde-de-la-guerra-en-medio-de-un-boom-de-precios-202111519440</guid>
+			<description><![CDATA[Ante las medidas restrictivas de la exportación, los productores de la vecina orilla pronostican el efecto opuesto al buscado por las autoridades ]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Las picardías políticas tienen costos y riesgos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/las-picardias-politicas-tienen-costos-y-riesgos-20211151930</link>
+			<guid>https://www.elobservador.com.uy/nota/las-picardias-politicas-tienen-costos-y-riesgos-20211151930</guid>
+			<description><![CDATA[Tras la ley de forestación, la dirigencia de izquierda, que quiere volver a gobernar, razona sobre costos políticos y perjuicios para el país ]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Cómo será el plan logístico para recibir a las vacunas contra el covid-19?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-como-sera-el-plan-logistico-para-recibir-a-las-vacunas-contra-el-covid-19--20211151720</link>
+			<guid>https://www.elobservador.com.uy/nota/-como-sera-el-plan-logistico-para-recibir-a-las-vacunas-contra-el-covid-19--20211151720</guid>
+			<description><![CDATA[Expertos en logística coinciden en que Uruguay está preparado para recibir vacunas que requieran cadenas de frío tanto de refrigeración, congelado o supercongelado]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Sartori aún es un enigma para el resto de los blancos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/sartori-aun-es-un-enigma-para-el-resto-de-los-blancos-202111517280</link>
+			<guid>https://www.elobservador.com.uy/nota/sartori-aun-es-un-enigma-para-el-resto-de-los-blancos-202111517280</guid>
+			<description><![CDATA[Es el que menos habla en el Senado según estadísticas del Parlamento; está alejado de los diputados de su sector y tiene asistencia del 84% a las comisiones]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Cosse pone en marcha plan de trabajos temporales para la segunda mitad de febrero
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/cosse-pone-en-marcha-plan-de-trabajos-temporales-para-la-segunda-mitad-de-febrero-202111515100</link>
+			<guid>https://www.elobservador.com.uy/nota/cosse-pone-en-marcha-plan-de-trabajos-temporales-para-la-segunda-mitad-de-febrero-202111515100</guid>
+			<description><![CDATA[La iniciativa se enmarca dentro del Plan ABC y comenzará con mil puestos laborales con una remuneración de $20.000 nominales para generar ingresos a las poblaciones más afectadas económicamente]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Por qué soñamos con irnos a vivir al campo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/por-que-sonamos-con-irnos-a-vivir-al-campo-202111412230</link>
+			<guid>https://www.elobservador.com.uy/nota/por-que-sonamos-con-irnos-a-vivir-al-campo-202111412230</guid>
+			<description><![CDATA[En épocas de crisis económica, expansión de las ciudades y epidemias, la búsqueda de campo y el enojo con la vida urbana aparecen con mayor regularidad]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Conocé en esta ruta gastronómica los nuevos sabores del este uruguayo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/conoce-en-esta-ruta-gastronomica-los-nuevos-sabores-del-este-uruguayo-20211142240</link>
+			<guid>https://www.elobservador.com.uy/nota/conoce-en-esta-ruta-gastronomica-los-nuevos-sabores-del-este-uruguayo-20211142240</guid>
+			<description><![CDATA[Brunch, sushi, tapas, charcutería y más en una selección de propuestas para degustar]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				El ejercicio físico, un aliado para superar la adicción al alcohol
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/el-ejercicio-fisico-un-aliado-para-superar-la-adiccion-al-alcohol-20211111810</link>
+			<guid>https://www.elobservador.com.uy/nota/el-ejercicio-fisico-un-aliado-para-superar-la-adiccion-al-alcohol-20211111810</guid>
+			<description><![CDATA[Para la mayoría de los adolescentes, pasarlo bien supone colocarse y desmadrarse]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Masculinidad flexible: ¿Están cambiando los modelos de paternidad?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/masculinidad-flexible-estan-cambiando-los-modelos-de-paternidad--2021189510</link>
+			<guid>https://www.elobservador.com.uy/nota/masculinidad-flexible-estan-cambiando-los-modelos-de-paternidad--2021189510</guid>
+			<description><![CDATA[De la misma manera que el perfil estereotipado de la mujer está cambiando, el varón se va transformando e incorpora características consideradas femeninas]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Uruguay fabricaba vacunas, pero dejó de hacerlo por no invertir unos pocos pesos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/uruguay-fabricaba-sus-propias-vacunas-pero-dejo-de-hacerlo-por-no-invertir-unos-pocos-pesos-202111521390</link>
+			<guid>https://www.elobservador.com.uy/nota/uruguay-fabricaba-sus-propias-vacunas-pero-dejo-de-hacerlo-por-no-invertir-unos-pocos-pesos-202111521390</guid>
+			<description><![CDATA[Con una inversión de apenas tres millones de dólares podría volver a producirlas]]></description>
+			<pubDate>Sat, 16 Jan 2021 08:01:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				"Necesito saber qué pasó con mis dos hermanos": el horror de los miles de niños que murieron en hogares para madres embarazadas de Irlanda
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-necesito-saber-que-paso-con-mis-dos-hermanos-el-horror-de-los-miles-de-ninos-que-murieron-en-hogares-para-madres-embarazadas-de-irlanda-20211163283</link>
+			<guid>https://www.elobservador.com.uy/nota/-necesito-saber-que-paso-con-mis-dos-hermanos-el-horror-de-los-miles-de-ninos-que-murieron-en-hogares-para-madres-embarazadas-de-irlanda-20211163283</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 16 Jan 2021 06:28:03 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
