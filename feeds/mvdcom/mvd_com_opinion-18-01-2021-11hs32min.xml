@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+	<title>Montevideo Portal. Columnas de opinión</title>
+	<link>https://www.montevideo.com.uy</link>
+	<description>Montevideo Portal. Columnas de opinión</description>
+	<image>
+		<url>http://servicios.montevideo.com.uy/mvdcomm_rss.gif</url>
+		<title>Montevideo Portal - Destacados</title>
+		<link>https://www.montevideo.com.uy</link>
+	</image>
+ 	<item>
+		<title>Opinión | Contaminación del agua: una epidemia silenciosa</title>
+		<link>https://www.montevideo.com.uy/auc.aspx?775498</link>
+		<description>
+		<![CDATA[<a href="https://www.montevideo.com.uy/auc.aspx?775498"><img border="0" src="https://imagenes.montevideo.com.uy/imgnoticias/202101/_W620/750226.jpg" alt="gub" /></a><br /><br/>El nuevo reporte del estado del ambiente de Uruguay deja en evidencia que todas las cuencas están ecológicamente comprometidas. La situación más grave la enfrenta la cuenca del Río Santa Lucía ]]>
+</description>
+		<pubDate>Wed, 13 Jan 2021 15:18:00 -0200</pubDate>
+		<dc:creator>Montevideo Portal</dc:creator>
+		<category>Eduardo Gudynas</category>
+		<guid isPermaLink="true">https://www.montevideo.com.uy/auc.aspx?775498</guid>
+	</item>	<item>
+		<title>Opinión | Juntos podemos hacerle frente</title>
+		<link>https://www.montevideo.com.uy/auc.aspx?775466</link>
+		<description>
+		<![CDATA[<a href="https://www.montevideo.com.uy/auc.aspx?775466"><img border="0" src="https://imagenes.montevideo.com.uy/imgnoticias/202012/_W620/748983.jpg" alt="" /></a><br /><br/>¿No será momento de poner un poquito de lo que nos toca para frenar la curva de contagios y acelerar la vacunación? Medidas serias para parar la movilidad y apoyar socialmente al que más lo necesita ]]>
+</description>
+		<pubDate>Wed, 13 Jan 2021 11:47:00 -0200</pubDate>
+		<dc:creator>Montevideo Portal</dc:creator>
+		<category>Martín Pereira</category>
+		<guid isPermaLink="true">https://www.montevideo.com.uy/auc.aspx?775466</guid>
+	</item>	<item>
+		<title>Opinión | El vendaval de los sueños rotos</title>
+		<link>https://www.montevideo.com.uy/auc.aspx?775463</link>
+		<description>
+		<![CDATA[<a href="https://www.montevideo.com.uy/auc.aspx?775463"><img border="0" src="https://imagenes.montevideo.com.uy/imgnoticias/202101/_W620/750192.jpg" alt="" /></a><br /><br/>Los sueños, los más de un millón y medio de mayores de 60 años que se llevó la peste, ¿son un ajuste impuesto por la naturaleza, por la ferocidad de la demografía, o la demostración de una decadencia acelerada de nuestra civilización? ]]>
+</description>
+		<pubDate>Wed, 13 Jan 2021 11:34:00 -0200</pubDate>
+		<dc:creator>Montevideo Portal</dc:creator>
+		<category>Navegaciones</category>
+		<guid isPermaLink="true">https://www.montevideo.com.uy/auc.aspx?775463</guid>
+	</item>	<item>
+		<title>Opinión | Forestación: ordenar si, hacer daño no</title>
+		<link>https://www.montevideo.com.uy/auc.aspx?775272</link>
+		<description>
+		<![CDATA[<a href="https://www.montevideo.com.uy/auc.aspx?775272"><img border="0" src="https://imagenes.montevideo.com.uy/imgnoticias/201404/_W620/445210.jpg" alt="" /></a><br /><br/>Está bien que no se foreste tierra que tiene usos potenciales mejores para el país. No está bien que lo que es de prioridad forestal no se foreste por simple determinación política
+ ]]>
+</description>
+		<pubDate>Mon, 11 Jan 2021 12:26:00 -0200</pubDate>
+		<dc:creator>Montevideo Portal</dc:creator>
+		<category>Sergio Botana</category>
+		<guid isPermaLink="true">https://www.montevideo.com.uy/auc.aspx?775272</guid>
+	</item>	<item>
+		<title>Opinión | Los nuevos visigodos vuelven a tomar el Capitolio</title>
+		<link>https://www.montevideo.com.uy/auc.aspx?775098</link>
+		<description>
+		<![CDATA[<a href="https://www.montevideo.com.uy/auc.aspx?775098"><img border="0" src="https://imagenes.montevideo.com.uy/imgnoticias/202001/_W620/716720.jpg" alt="EFE / EPA / Micheal Reynolds" /></a><br /><br/>La democracia necesita un terreno común en el que puedan encontrarse y convivir los diferentes; ese terreno es el de la verdad y la ley. Cuando se desconoce una u otra, el resultado es el conflicto ]]>
+</description>
+		<pubDate>Fri, 08 Jan 2021 15:19:00 -0200</pubDate>
+		<dc:creator>Montevideo Portal</dc:creator>
+		<category>Ope Pasquet</category>
+		<guid isPermaLink="true">https://www.montevideo.com.uy/auc.aspx?775098</guid>
+	</item> 
+</channel>
+</rss>
