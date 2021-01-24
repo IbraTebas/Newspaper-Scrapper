@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>El Observador - </title>
+		<description>El Observador</description>
+		<link>https://www.elobservador.com.uy</link>
+		<language>spa</language>
+		<lastBuildDate>Fri, 22 Jan 2021 13:13:18 GMT</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.mustang.cloud/</generator>
+		<copyright>Copyright (c) 2021</copyright>
+		<atom:link href="https://www.elobservador.com.uy/rss/elobservador.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>El Observador - </title>
+			<url>https://www.elobservador.com.uy/images/estructura/logo.png</url>
+			<link>https://www.elobservador.com.uy</link>
+		</image>
+
+		<item>
+			<title><![CDATA[
+				Ikea desembarca en América Latina de la mano de Falabella
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/ikea-desembarca-en-america-latina-de-la-mano-de-falabella-202112210547</link>
+			<guid>https://www.elobservador.com.uy/nota/ikea-desembarca-en-america-latina-de-la-mano-de-falabella-202112210547</guid>
+			<description><![CDATA[La famosa empresa sueca Ikea, de venta de artículos para el hogar, llegará a la región y tendrá su primera tienda en marzo]]></description>
+			<pubDate>Fri, 22 Jan 2021 13:05:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Homicidio en Guichón: jugaba al truco con su amigo de toda la vida, discutieron y lo mató
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/homicidio-en-guichon-jugaba-al-truco-con-su-amigo-de-toda-la-vida-discutieron-y-lo-mato-202112210453</link>
+			<guid>https://www.elobservador.com.uy/nota/homicidio-en-guichon-jugaba-al-truco-con-su-amigo-de-toda-la-vida-discutieron-y-lo-mato-202112210453</guid>
+			<description><![CDATA[Jugaba al truco con su amigo de toda la vida, discutieron, y lo mató. Esto pasó en Guichón, Paysandú]]></description>
+			<pubDate>Fri, 22 Jan 2021 13:04:53 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Qué ver este fin de semana? Dos series y dos películas para ver en casa
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-que-ver-este-fin-de-semana-dos-series-y-dos-peliculas-para-ver-en-casa-202112295129</link>
+			<guid>https://www.elobservador.com.uy/nota/-que-ver-este-fin-de-semana-dos-series-y-dos-peliculas-para-ver-en-casa-202112295129</guid>
+			<description><![CDATA[Dramas adolescentes, un recorrido por una ciudad, monstruos y mafiosos entre las recomendaciones para ver esta semana en plataformas digitales]]></description>
+			<pubDate>Fri, 22 Jan 2021 12:51:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Uruguay llega al 1% de infectados con covid-19: qué pasó en cada departamento 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/uruguay-llega-al-1-de-personas-que-se-infectaron-con-covid-19-que-paso-en-cada-departamento--202112294655</link>
+			<guid>https://www.elobservador.com.uy/nota/uruguay-llega-al-1-de-personas-que-se-infectaron-con-covid-19-que-paso-en-cada-departamento--202112294655</guid>
+			<description><![CDATA[Uruguay llega al 1% de su población que fue infectada por covid-19. En este mapa podés ver, departamento por departamento, qué porcentaje de su población tuvo el coronavirus]]></description>
+			<pubDate>Fri, 22 Jan 2021 12:46:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Por qué Google amenaza con irse de Australia y cuáles son las implicaciones para el resto del mundo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/por-que-google-amenaza-con-irse-de-australia-y-cuales-son-las-implicaciones-para-el-resto-del-mundo-202112294547</link>
+			<guid>https://www.elobservador.com.uy/nota/por-que-google-amenaza-con-irse-de-australia-y-cuales-son-las-implicaciones-para-el-resto-del-mundo-202112294547</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 22 Jan 2021 12:45:47 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La carta que le envió Paul McCartney a Alberto Fernández y una promesa para hacerse vegano
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-carta-que-le-envio-paul-mccartney-a-alberto-fernandez-y-una-promesa-para-hacerse-vegano-202112294110</link>
+			<guid>https://www.elobservador.com.uy/nota/la-carta-que-le-envio-paul-mccartney-a-alberto-fernandez-y-una-promesa-para-hacerse-vegano-202112294110</guid>
+			<description><![CDATA[El cantante le pidió que se sumara a la campaña Lunes sin carne, después de una gestion de la Unión Vegana Argentina]]></description>
+			<pubDate>Fri, 22 Jan 2021 12:41:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				César Chávez, el líder sindical latino cuyo busto ocupa un lugar privilegiado en la oficina de Joe Biden
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/cesar-chavez-el-lider-sindical-latino-cuyo-busto-ocupa-un-lugar-privilegiado-en-la-oficina-de-joe-biden-202112285140</link>
+			<guid>https://www.elobservador.com.uy/nota/cesar-chavez-el-lider-sindical-latino-cuyo-busto-ocupa-un-lugar-privilegiado-en-la-oficina-de-joe-biden-202112285140</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 22 Jan 2021 11:51:40 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				El misterioso origen de la tartamudez en el cerebro (y los novedosos tratamientos en investigación para tratar de superarla)
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/el-misterioso-origen-de-la-tartamudez-en-el-cerebro-y-los-novedosos-tratamientos-en-investigacion-para-tratar-de-superarla--2021122858</link>
+			<guid>https://www.elobservador.com.uy/nota/el-misterioso-origen-de-la-tartamudez-en-el-cerebro-y-los-novedosos-tratamientos-en-investigacion-para-tratar-de-superarla--2021122858</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 22 Jan 2021 11:05:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				“La gente me alquila todos los días para que haga nada”: el negocio de un hombre en Japón que recibe miles de solicitudes
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-la-gente-me-alquila-todos-los-dias-para-que-haga-nada-el-negocio-de-un-hombre-en-japon-que-recibe-miles-de-solicitudes-202112275321</link>
+			<guid>https://www.elobservador.com.uy/nota/-la-gente-me-alquila-todos-los-dias-para-que-haga-nada-el-negocio-de-un-hombre-en-japon-que-recibe-miles-de-solicitudes-202112275321</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 22 Jan 2021 10:53:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				"Es una responsabilidad enorme": la reacción del primer uruguayo vacunado en la frontera
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-es-una-responsabilidad-enorme-la-reaccion-del-primer-uruguayo-vacunado-en-la-frontera-20211212070</link>
+			<guid>https://www.elobservador.com.uy/nota/-es-una-responsabilidad-enorme-la-reaccion-del-primer-uruguayo-vacunado-en-la-frontera-20211212070</guid>
+			<description><![CDATA[Ricardo Cardozo es licenciado en enfermería y trabaja como auxiliar en Brasil, dijo estar nervioso antes de recibir la vacuna, pero no sintió dolor y espera que la gente se siga cuidando]]></description>
+			<pubDate>Fri, 22 Jan 2021 08:02:44 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				A qué se debe el conflicto por los juzgados de género y qué salidas se evalúan en el Parlamento 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/a-que-se-debe-el-conflicto-por-los-juzgados-de-genero-y-que-salidas-se-evaluan-en-el-parlamento--202112120310</link>
+			<guid>https://www.elobservador.com.uy/nota/a-que-se-debe-el-conflicto-por-los-juzgados-de-genero-y-que-salidas-se-evaluan-en-el-parlamento--202112120310</guid>
+			<description><![CDATA[Modalidad multimateria de los juzgados genera diferencias por recursos y objeciones técnicas; proponen que las tres sedes que se crean no tengan competencia penal ni de familia]]></description>
+			<pubDate>Fri, 22 Jan 2021 08:02:44 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Covid-19 da “señales” de desaceleración y trabajan en plan para llegada de vacunas
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/covid-19-da-senales-de-desaceleracion-y-trabajan-en-plan-para-llegada-de-vacunas-202112120460</link>
+			<guid>https://www.elobservador.com.uy/nota/covid-19-da-senales-de-desaceleracion-y-trabajan-en-plan-para-llegada-de-vacunas-202112120460</guid>
+			<description><![CDATA[Negociaciones con laboratorios continúan; Salinas pide no ser “exitistas” y Lacalle Pou convocó al Consejo de Ministros para la próxima semana]]></description>
+			<pubDate>Fri, 22 Jan 2021 08:02:44 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Cómo incide en el IRPF el nuevo criterio de ajuste que definió el gobierno?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-como-incide-en-el-irpf-el-nuevo-criterio-de-ajuste-que-definio-el-gobierno--202112116240</link>
+			<guid>https://www.elobservador.com.uy/nota/-como-incide-en-el-irpf-el-nuevo-criterio-de-ajuste-que-definio-el-gobierno--202112116240</guid>
+			<description><![CDATA[El Poder Ejecutivo resolvió incrementar la Base de Prestaciones y Contribuciones en línea con la evolución del Índice Medio de Salarios]]></description>
+			<pubDate>Fri, 22 Jan 2021 08:02:44 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Las recetas de la abuela (y una idea para hacer en casa)
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/las-recetas-de-la-abuela-y-una-idea-para-hacer-en-casa--202112118430</link>
+			<guid>https://www.elobservador.com.uy/nota/las-recetas-de-la-abuela-y-una-idea-para-hacer-en-casa--202112118430</guid>
+			<description><![CDATA[Un comentario del cocinero Hugo Soca motivó el armado de un cuaderno de recetas]]></description>
+			<pubDate>Fri, 22 Jan 2021 08:02:44 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Fue Trump el peor presidente de Estados Unidos?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-fue-trump-el-peor-presidente-de-estados-unidos--202112118470</link>
+			<guid>https://www.elobservador.com.uy/nota/-fue-trump-el-peor-presidente-de-estados-unidos--202112118470</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 22 Jan 2021 08:02:44 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Mercado ganadero firme, con precios que comienzan a repuntar 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/mercado-ganadero-firme-con-precios-que-comienzan-a-repuntar--202112117250</link>
+			<guid>https://www.elobservador.com.uy/nota/mercado-ganadero-firme-con-precios-que-comienzan-a-repuntar--202112117250</guid>
+			<description><![CDATA[El novillo especial de exportación –difícil de conseguir– cruza los US$ 3,20 por kilo en cuarta balanza, con gradual recuperación respecto a semanas anteriores ]]></description>
+			<pubDate>Fri, 22 Jan 2021 08:02:44 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Los valores de los granos ingresaron en un territorio volátil 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/los-valores-de-los-granos-ingresaron-en-un-territorio-volatil--20211211790</link>
+			<guid>https://www.elobservador.com.uy/nota/los-valores-de-los-granos-ingresaron-en-un-territorio-volatil--20211211790</guid>
+			<description><![CDATA[La soja perdió la referencia de los US$ 500 por tonelada, pero está en US$ 490 y ese precio sigue siendo estimulante para los productores locales ]]></description>
+			<pubDate>Fri, 22 Jan 2021 08:02:44 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Se consolida Punta del Este todo el año?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-se-consolida-punta-del-este-todo-el-ano--20211211720</link>
+			<guid>https://www.elobservador.com.uy/nota/-se-consolida-punta-del-este-todo-el-ano--20211211720</guid>
+			<description><![CDATA[Un complejo de US$ 200 millones de inversión, que incluye shopping, es otra constatación de un aumento de oferta ante la instalación de argentinos y uruguayos]]></description>
+			<pubDate>Fri, 22 Jan 2021 08:02:44 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Precio de la lana subió 20% respecto a fines de la zafra
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/precio-de-la-lana-subio-20-respecto-a-fines-de-la-zafra-202112116510</link>
+			<guid>https://www.elobservador.com.uy/nota/precio-de-la-lana-subio-20-respecto-a-fines-de-la-zafra-202112116510</guid>
+			<description><![CDATA[La suba de los valores de la lana que se dieron en Australia aún no se ha reflejado a nivel local ]]></description>
+			<pubDate>Fri, 22 Jan 2021 08:02:44 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La Fed seguirá con tasas bajas en 2021; ¿cómo puede aprovecharlo Uruguay?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-fed-seguira-con-tasas-bajas-en-2021-como-puede-aprovecharlo-uruguay--202112115220</link>
+			<guid>https://www.elobservador.com.uy/nota/la-fed-seguira-con-tasas-bajas-en-2021-como-puede-aprovecharlo-uruguay--202112115220</guid>
+			<description><![CDATA[Las condiciones internacionales se plantean favorables en el comienzo de año y pueden ayudar a la economía local]]></description>
+			<pubDate>Fri, 22 Jan 2021 08:02:44 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Se viene la 37° Semana del Caballo Árabe
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/se-viene-la-37-semana-del-caballo-arabe-20211225046</link>
+			<guid>https://www.elobservador.com.uy/nota/se-viene-la-37-semana-del-caballo-arabe-20211225046</guid>
+			<description><![CDATA[Este año habrá cabalgatas, una jornada técnica, visitas a establecimientos y una venta de equinos que se desarrollará de forma 100% virtual]]></description>
+			<pubDate>Fri, 22 Jan 2021 08:00:46 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				QAnon: por qué sus seguidores se quedaron desorientados tras la salida de Donald Trump del poder
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/qanon-por-que-sus-seguidores-se-quedaron-desorientados-tras-la-salida-de-donald-trump-del-poder-202112225943</link>
+			<guid>https://www.elobservador.com.uy/nota/qanon-por-que-sus-seguidores-se-quedaron-desorientados-tras-la-salida-de-donald-trump-del-poder-202112225943</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 22 Jan 2021 05:59:43 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Coronavirus en EE.UU.: Fauci compara su trabajo como asesor de Trump y Biden
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/coronavirus-en-ee-uu-fauci-compara-su-trabajo-como-asesor-de-trump-y-biden-20211220623</link>
+			<guid>https://www.elobservador.com.uy/nota/coronavirus-en-ee-uu-fauci-compara-su-trabajo-como-asesor-de-trump-y-biden-20211220623</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 22 Jan 2021 03:06:23 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Oxímetro, el aparato de US$20 que puede ayudar a salvar vidas en la pandemia de coronavirus
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/oximetro-el-aparato-de-us-20-que-puede-ayudar-a-salvar-vidas-en-la-pandemia-de-coronavirus-20211212294</link>
+			<guid>https://www.elobservador.com.uy/nota/oximetro-el-aparato-de-us-20-que-puede-ayudar-a-salvar-vidas-en-la-pandemia-de-coronavirus-20211212294</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Fri, 22 Jan 2021 01:09:04 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Se detectaron 709 casos nuevos de coronavirus y 11 muertos 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/se-detectaron-709-casos-nuevos-de-coronavirus-y-11-muertos--20211212163</link>
+			<guid>https://www.elobservador.com.uy/nota/se-detectaron-709-casos-nuevos-de-coronavirus-y-11-muertos--20211212163</guid>
+			<description><![CDATA[En esta jornada, el índice de positividad se ubicó en 9,6% según los datos oficiales ]]></description>
+			<pubDate>Fri, 22 Jan 2021 00:06:00 GMT</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>El Observador - </title>
+		<description>El Observador</description>
+		<link>https://www.elobservador.com.uy</link>
+		<language>spa</language>
+		<lastBuildDate>Sun, 24 Jan 2021 14:32:40 GMT</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.mustang.cloud/</generator>
+		<copyright>Copyright (c) 2021</copyright>
+		<atom:link href="https://www.elobservador.com.uy/rss/elobservador.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>El Observador - </title>
+			<url>https://www.elobservador.com.uy/images/estructura/logo.png</url>
+			<link>https://www.elobservador.com.uy</link>
+		</image>
+
+		<item>
+			<title><![CDATA[
+				Sismo de magnitud 7,5 en la Antártida; uruguayos están "en buenas condiciones"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/sismo-de-magnitud-7-5-en-la-antartida-uruguayos-estan-en-buenas-condiciones--2021124103756</link>
+			<guid>https://www.elobservador.com.uy/nota/sismo-de-magnitud-7-5-en-la-antartida-uruguayos-estan-en-buenas-condiciones--2021124103756</guid>
+			<description><![CDATA[El movimiento ocurrido en la noche puso en alerta a nueve bases de distintos países; en la base Artigas no fue necesario evacuar]]></description>
+			<pubDate>Sun, 24 Jan 2021 13:37:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Quién es Doug Emhoff, esposo de Kamala Harris y primer "segundo caballero" 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/quien-es-doug-emhoff-esposo-de-kamala-harris-y-primer-segundo-caballero-de-estados-unidos-202112410730</link>
+			<guid>https://www.elobservador.com.uy/nota/quien-es-doug-emhoff-esposo-de-kamala-harris-y-primer-segundo-caballero-de-estados-unidos-202112410730</guid>
+			<description><![CDATA[Algunos de sus conocidos afirman que le ha tomado el gusto a su nuevo rol en el mundo de la política]]></description>
+			<pubDate>Sun, 24 Jan 2021 13:07:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Día de la Educación: lo que hace David Malan en sus clases para ser "el profesor estrella de informática de Harvard"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/dia-de-la-educacion-lo-que-hace-david-malan-en-sus-clases-para-ser-el-profesor-estrella-de-informatica-de-harvard--202112493036</link>
+			<guid>https://www.elobservador.com.uy/nota/dia-de-la-educacion-lo-que-hace-david-malan-en-sus-clases-para-ser-el-profesor-estrella-de-informatica-de-harvard--202112493036</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sun, 24 Jan 2021 12:30:36 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Inumet anuncia ola de calor hasta el próximo martes
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/inumet-anuncia-ola-de-calor-hasta-el-proximo-martes-20211248309</link>
+			<guid>https://www.elobservador.com.uy/nota/inumet-anuncia-ola-de-calor-hasta-el-proximo-martes-20211248309</guid>
+			<description><![CDATA[Se prevén mínimas de 21° y maximas de 36° en departamentos del litoral y sur del país]]></description>
+			<pubDate>Sun, 24 Jan 2021 11:30:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Rescatan a 11 mineros atrapados durante dos semanas en una mina en China
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/rescatan-a-11-mineros-atrapados-durante-dos-semanas-en-una-mina-en-china-202112481658</link>
+			<guid>https://www.elobservador.com.uy/nota/rescatan-a-11-mineros-atrapados-durante-dos-semanas-en-una-mina-en-china-202112481658</guid>
+			<description><![CDATA[Los esfuerzos de rescate continúan para localizar a otros 10 mineros que aún están desaparecidos dentro del yacimiento de oro Hushan]]></description>
+			<pubDate>Sun, 24 Jan 2021 11:16:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Los seis números que definen todo el universo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/los-seis-numeros-que-definen-todo-el-universo-202112475932</link>
+			<guid>https://www.elobservador.com.uy/nota/los-seis-numeros-que-definen-todo-el-universo-202112475932</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sun, 24 Jan 2021 10:59:32 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Vacuna contra el coronavirus: por qué una vacuna que no evita la infección de covid-19 sigue siendo útil para frenar la pandemia
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/vacuna-contra-el-coronavirus-por-que-una-vacuna-que-no-evita-la-infeccion-de-covid-19-sigue-siendo-util-para-frenar-la-pandemia-202112454922</link>
+			<guid>https://www.elobservador.com.uy/nota/vacuna-contra-el-coronavirus-por-que-una-vacuna-que-no-evita-la-infeccion-de-covid-19-sigue-siendo-util-para-frenar-la-pandemia-202112454922</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:49:22 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				El brexit: una separación amigable
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/el-brexit-una-separacion-amigable-20211245031</link>
+			<guid>https://www.elobservador.com.uy/nota/el-brexit-una-separacion-amigable-20211245031</guid>
+			<description><![CDATA[La UE no sacrificó ninguna posición de importancia                      ]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:00:31 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Una propuesta que merece estudio
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/una-propuesta-que-merece-estudio-20211245031</link>
+			<guid>https://www.elobservador.com.uy/nota/una-propuesta-que-merece-estudio-20211245031</guid>
+			<description><![CDATA[Es la hora de mirar el conjunto de las empresas que van a sacar el país adelante: no solo al malla oro, al que sí hay que apoyar, sino también a todo el pelotón que da un aporte invalorable al empleo]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:00:31 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Cinco principios para mejorar tus presentaciones por Zoom
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/cinco-principios-para-mejorar-tus-presentaciones-por-zoom-20211245031</link>
+			<guid>https://www.elobservador.com.uy/nota/cinco-principios-para-mejorar-tus-presentaciones-por-zoom-20211245031</guid>
+			<description><![CDATA[Cómo hacer para conectar con la audiencia a pesar de la distancia que todavía se mantendrá por un buen tiempo]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:00:31 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Joe Biden y su sello latino: ¿hay una nueva oportunidad para América Latina?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/joe-biden-y-su-sello-latino-hay-una-nueva-oportunidad-para-america-latina--20211245031</link>
+			<guid>https://www.elobservador.com.uy/nota/joe-biden-y-su-sello-latino-hay-una-nueva-oportunidad-para-america-latina--20211245031</guid>
+			<description><![CDATA[El nuevo presidente de Estados Unidos, con un gabinete con récord de latinos y la promesa de reconectar con el mundo, ofrece otro marco para las relaciones con la región]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:00:31 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				No estamos malditos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/no-estamos-malditos-20211245031</link>
+			<guid>https://www.elobservador.com.uy/nota/no-estamos-malditos-20211245031</guid>
+			<description><![CDATA[La famosa libertad responsable que, desde Juan XXIII, se propone desde antaño y que Luis Lacalle Pou popularizó en los inicios de la pandemia, es el quid de la cuestión y trata de la vida misma. ]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:00:31 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Presidenta de UTE: “Hemos tirado agua y viento, Uruguay no puede darse ese lujo”
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/presidenta-de-ute-hemos-tirado-agua-y-viento-uruguay-no-puede-darse-ese-lujo--20211245031</link>
+			<guid>https://www.elobservador.com.uy/nota/presidenta-de-ute-hemos-tirado-agua-y-viento-uruguay-no-puede-darse-ese-lujo--20211245031</guid>
+			<description><![CDATA[La titular del ente dijo que además de exportar, se debe "aprovechar" la energía disponible en el mercado interno y a "un mejor precio"]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:00:31 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Un mensaje regional del CEO de Stellantis: “Toda empresa tiene sus límites”
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/un-mensaje-regional-del-ceo-de-stellantis-toda-empresa-tiene-sus-limites--20211245031</link>
+			<guid>https://www.elobservador.com.uy/nota/un-mensaje-regional-del-ceo-de-stellantis-toda-empresa-tiene-sus-limites--20211245031</guid>
+			<description><![CDATA[El principal de la unión entre FCA y PSA recordó que el compromiso es no cerrar fábricas pero alertó sobre acumulación de “normas, exigencias y aranceles”]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:00:31 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Los viñedos, donde la sequía en verano es bienvenida 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/los-vinedos-donde-la-sequia-en-verano-es-bienvenida--20211245031</link>
+			<guid>https://www.elobservador.com.uy/nota/los-vinedos-donde-la-sequia-en-verano-es-bienvenida--20211245031</guid>
+			<description><![CDATA[La secuencia de días con calor y noches frescas permite una maduración ideal de las uvas; si no surgen contratiempos, se aproxima una tercera vendimia de alta calidad consecutiva ]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:00:31 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Mujeres que corren con olas: Salty Girls, una comunidad de surfistas 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/mujeres-que-corren-con-olas-salty-girls-una-comunidad-de-surfistas--20211245031</link>
+			<guid>https://www.elobservador.com.uy/nota/mujeres-que-corren-con-olas-salty-girls-una-comunidad-de-surfistas--20211245031</guid>
+			<description><![CDATA[Camila Meana y Agustina Brum lideran e inspiran a un grupo de mujeres que comparten un estilo de vida, dentro y fuera del agua ]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:00:31 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Habitación 2806, la serie que recupera el caso Strauss-Kahn y el primer antecedente al Me Too
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/habitacion-2806-la-serie-que-recupera-el-caso-strauss-kahn-y-el-primer-antecedente-al-me-too-20211245031</link>
+			<guid>https://www.elobservador.com.uy/nota/habitacion-2806-la-serie-que-recupera-el-caso-strauss-kahn-y-el-primer-antecedente-al-me-too-20211245031</guid>
+			<description><![CDATA[En cuatro episodios, esta serie documental narra el auge y la caída del ex director del FMI y candidato presidencial francés, Dominique Strauss-Kahn]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:00:31 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Así fue el tratamiento urgente que dio el Tribunal de Cuentas a la compra de vacunas
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/asi-fue-el-tratamiento-urgente-que-dio-el-tribunal-de-cuentas-a-la-compra-de-vacunas-202112320440</link>
+			<guid>https://www.elobservador.com.uy/nota/asi-fue-el-tratamiento-urgente-que-dio-el-tribunal-de-cuentas-a-la-compra-de-vacunas-202112320440</guid>
+			<description><![CDATA[Las dosis de Pfizer-BioNTech y Sinovac que llegarán a Uruguay a principios de marzo, más aquellas que vendrán a través del mecanismo Covax, alcanzan para inocular a 2.625.000 personas]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:00:28 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Cómo hizo Policía Científica para identificar en 48 horas el cuerpo de Carolina Escudero
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/como-hizo-policia-cientifica-para-identificar-en-48-horas-el-cuerpo-de-carolina-escudero-202112317160</link>
+			<guid>https://www.elobservador.com.uy/nota/como-hizo-policia-cientifica-para-identificar-en-48-horas-el-cuerpo-de-carolina-escudero-202112317160</guid>
+			<description><![CDATA[El factor clave para confirmar que el cuerpo era de la mujer buscada fue un molar que se encontraba en perfectas condiciones y sin "ninguna reparación", dijo el director de Policía Científica, Fernando Noble]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:00:28 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Su bebé murió antes de nacer por una agresión y demandó al Estado ante la Corte Interamericana
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/su-bebe-murio-antes-de-nacer-por-una-agresion-y-demando-al-estado-ante-la-corte-interamericana-20211245031</link>
+			<guid>https://www.elobservador.com.uy/nota/su-bebe-murio-antes-de-nacer-por-una-agresion-y-demando-al-estado-ante-la-corte-interamericana-20211245031</guid>
+			<description><![CDATA[Jacqueline Grosso inició una demanda internacional luego de agotar las vías en Uruguay]]></description>
+			<pubDate>Sun, 24 Jan 2021 08:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Pandemia de coronavirus: la médica forzada a enfrentar sola la crisis de covid-19 en su hospital
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/pandemia-de-coronavirus-la-medica-forzada-a-enfrentar-sola-la-crisis-de-covid-19-en-su-hospital-20211242572</link>
+			<guid>https://www.elobservador.com.uy/nota/pandemia-de-coronavirus-la-medica-forzada-a-enfrentar-sola-la-crisis-de-covid-19-en-su-hospital-20211242572</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sun, 24 Jan 2021 05:57:02 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Detienen a Tse Chi Lop, el "Chapo" de Asia acusado de manejar un mercado de drogas de US$70.000 millones
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/detienen-a-tse-chi-lop-el-chapo-de-asia-acusado-de-manejar-un-mercado-de-drogas-de-us-70-000-millones-202112403340</link>
+			<guid>https://www.elobservador.com.uy/nota/detienen-a-tse-chi-lop-el-chapo-de-asia-acusado-de-manejar-un-mercado-de-drogas-de-us-70-000-millones-202112403340</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sun, 24 Jan 2021 03:33:40 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Un Solo Uruguay aseguró que participará en las elecciones del BPS
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-perdimos-la-oportunidad-de-eliminar-organismos-burocraticos-afirma-un-solo-uruguay-2021123223215</link>
+			<guid>https://www.elobservador.com.uy/nota/-perdimos-la-oportunidad-de-eliminar-organismos-burocraticos-afirma-un-solo-uruguay-2021123223215</guid>
+			<description><![CDATA[El movimiento de sectores agropecuarios, comerciales e industriales se postula como "gestor" de la reforma de la seguridad social ]]></description>
+			<pubDate>Sun, 24 Jan 2021 01:32:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Durazno ingresó en zona roja tras superar los 25 infectados cada 100.000 habitantes
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/durazno-ingreso-en-zona-roja-tras-superar-los-25-infectados-cada-100-000-habitantes-2021123202942</link>
+			<guid>https://www.elobservador.com.uy/nota/durazno-ingreso-en-zona-roja-tras-superar-los-25-infectados-cada-100-000-habitantes-2021123202942</guid>
+			<description><![CDATA[El Sinae reportó este sábado que hubo 801 casos nuevos de coronavirus y tres fallecidos]]></description>
+			<pubDate>Sat, 23 Jan 2021 23:29:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				García dijo que las Fuerzas Armadas "están a la orden" para colaborar en distribución de vacunas
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/garcia-dijo-que-las-fuerzas-armadas-estan-a-la-orden-para-colaborar-en-distribucion-de-vacunas-20211232067</link>
+			<guid>https://www.elobservador.com.uy/nota/garcia-dijo-que-las-fuerzas-armadas-estan-a-la-orden-para-colaborar-en-distribucion-de-vacunas-20211232067</guid>
+			<description><![CDATA[El ministro de Defensa dijo luego de conocido el acuerdo con los laboratorios Pfizer-BioNTech y Sinovac que "no hay defensa más importante que la de la salud de los uruguayos"]]></description>
+			<pubDate>Sat, 23 Jan 2021 23:06:07 GMT</pubDate>
+		</item>
+	</channel>
+</rss>

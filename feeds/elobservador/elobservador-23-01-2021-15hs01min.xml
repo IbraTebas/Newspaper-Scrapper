@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>El Observador - </title>
+		<description>El Observador</description>
+		<link>https://www.elobservador.com.uy</link>
+		<language>spa</language>
+		<lastBuildDate>Sat, 23 Jan 2021 17:58:45 GMT</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.mustang.cloud/</generator>
+		<copyright>Copyright (c) 2021</copyright>
+		<atom:link href="https://www.elobservador.com.uy/rss/elobservador.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>El Observador - </title>
+			<url>https://www.elobservador.com.uy/images/estructura/logo.png</url>
+			<link>https://www.elobservador.com.uy</link>
+		</image>
+
+		<item>
+			<title><![CDATA[
+				Gobierno espera vacunas para marzo e invertirá US$ 120 millones
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/segui-en-vivo-la-conferencia-del-presidente-lacalle-pou-sobre-la-compra-de-vacunas-contra-el-covid-202112312566</link>
+			<guid>https://www.elobservador.com.uy/nota/segui-en-vivo-la-conferencia-del-presidente-lacalle-pou-sobre-la-compra-de-vacunas-contra-el-covid-202112312566</guid>
+			<description><![CDATA[La aspiración del gobierno es tener vacunas para 2,8 millones de personas; comenzarán con el personal de la salud]]></description>
+			<pubDate>Sat, 23 Jan 2021 15:56:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Murió Gabriel Ruiz Díaz, el bajista de Catupecu Machu
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/murio-gabriel-ruiz-diaz-el-bajista-de-catupecu-machu-2021123124757</link>
+			<guid>https://www.elobservador.com.uy/nota/murio-gabriel-ruiz-diaz-el-bajista-de-catupecu-machu-2021123124757</guid>
+			<description><![CDATA[El músico había sufrido un accidente de tránsito en 2006 del que nunca logró recuperarse]]></description>
+			<pubDate>Sat, 23 Jan 2021 15:47:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Coronavirus: las advertencias de los científicos sobre la supuesta mayor letalidad de la nueva variante británica
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/coronavirus-las-advertencias-de-los-cientificos-sobre-la-supuesta-mayor-letalidad-de-la-nueva-variante-britanica-202112312715</link>
+			<guid>https://www.elobservador.com.uy/nota/coronavirus-las-advertencias-de-los-cientificos-sobre-la-supuesta-mayor-letalidad-de-la-nueva-variante-britanica-202112312715</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 23 Jan 2021 15:07:15 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Larry King: muere el legendario presentador estadounidense tras dar positivo por covid
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/larry-king-muere-el-legendario-presentador-estadounidense-tras-dar-positivo-por-covid-2021123115821</link>
+			<guid>https://www.elobservador.com.uy/nota/larry-king-muere-el-legendario-presentador-estadounidense-tras-dar-positivo-por-covid-2021123115821</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 23 Jan 2021 14:58:21 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Qué cambia en los términos de uso de WhatsApp y en qué se diferencia de Telegram y Signal
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/que-cambia-en-los-terminos-de-uso-de-whatsapp-y-en-que-se-diferencia-de-telegram-y-signal-202112311810</link>
+			<guid>https://www.elobservador.com.uy/nota/que-cambia-en-los-terminos-de-uso-de-whatsapp-y-en-que-se-diferencia-de-telegram-y-signal-202112311810</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 23 Jan 2021 14:08:10 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Murió el célebre periodista Larry King a los 87 años 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/murio-el-celebre-periodista-larry-king-a-los-87-anos--202112311248</link>
+			<guid>https://www.elobservador.com.uy/nota/murio-el-celebre-periodista-larry-king-a-los-87-anos--202112311248</guid>
+			<description><![CDATA[La leyenda de la televisión norteamericana murió en Los Ángeles tras ser hospitalizado por coronavirus]]></description>
+			<pubDate>Sat, 23 Jan 2021 14:02:48 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Nada es casual: lo que revelan más de 200 años de retratos de las primeras damas de EE.UU.
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/nada-es-casual-lo-que-revelan-mas-de-200-anos-de-retratos-de-las-primeras-damas-de-ee-uu--20211231106</link>
+			<guid>https://www.elobservador.com.uy/nota/nada-es-casual-lo-que-revelan-mas-de-200-anos-de-retratos-de-las-primeras-damas-de-ee-uu--20211231106</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 23 Jan 2021 14:00:06 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Cómo es Palm Beach, la opulenta isla de Florida con la población más blanca y más rica de EE.UU. que es el nuevo hogar de Donald Trump
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/como-es-palm-beach-la-opulenta-isla-de-florida-con-la-poblacion-mas-blanca-y-mas-rica-de-ee-uu-que-es-el-nuevo-hogar-de-donald-trump-202112391052</link>
+			<guid>https://www.elobservador.com.uy/nota/como-es-palm-beach-la-opulenta-isla-de-florida-con-la-poblacion-mas-blanca-y-mas-rica-de-ee-uu-que-es-el-nuevo-hogar-de-donald-trump-202112391052</guid>
+			<description><![CDATA[Trump aterrizó esta isla en 1985 cuando compró Mar-a-Lago, el resort donde el expresidente ha pasado largos fines de semana durante su mandato, por US$10 millones]]></description>
+			<pubDate>Sat, 23 Jan 2021 12:10:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				4 preguntas clave que pueden ayudarte a dejar de procrastinar
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/4-preguntas-clave-que-pueden-ayudarte-a-dejar-de-procrastinar-20211238247</link>
+			<guid>https://www.elobservador.com.uy/nota/4-preguntas-clave-que-pueden-ayudarte-a-dejar-de-procrastinar-20211238247</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 23 Jan 2021 11:24:07 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Habemus vaccina, mientras la pandemia se modera
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/habemus-vaccina-mientras-la-pandemia-se-modera-202112218530</link>
+			<guid>https://www.elobservador.com.uy/nota/habemus-vaccina-mientras-la-pandemia-se-modera-202112218530</guid>
+			<description><![CDATA[Se estabilizan en Uruguay la cantidad de contagiados y de personas en CTI                           ]]></description>
+			<pubDate>Sat, 23 Jan 2021 11:24:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La fascinante historia del tsakonio, el antiguo idioma de Esparta que solo hablan 2000 personas
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-fascinante-historia-del-tsakonio-el-antiguo-idioma-de-esparta-que-solo-hablan-2000-personas-202112365315</link>
+			<guid>https://www.elobservador.com.uy/nota/la-fascinante-historia-del-tsakonio-el-antiguo-idioma-de-esparta-que-solo-hablan-2000-personas-202112365315</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 23 Jan 2021 09:53:15 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Pfizer y Sinovac: las primeras vacunas elegidas por el gobierno
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/pfizer-y-sinovac-las-primeras-vacunas-elegidas-por-el-gobierno-202112222520</link>
+			<guid>https://www.elobservador.com.uy/nota/pfizer-y-sinovac-las-primeras-vacunas-elegidas-por-el-gobierno-202112222520</guid>
+			<description><![CDATA[Prevén comenzar a vacunar al personal de la salud en marzo; el gobierno anunciará más detalles este mediodía en conferencia de prensa]]></description>
+			<pubDate>Sat, 23 Jan 2021 08:00:45 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Un Solo Uruguay en tiempos de coalición multicolor: entre las críticas y el perfil social
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/un-solo-uruguay-en-tiempos-de-coalicion-multicolor-entre-las-criticas-y-el-perfil-social-202112222370</link>
+			<guid>https://www.elobservador.com.uy/nota/un-solo-uruguay-en-tiempos-de-coalicion-multicolor-entre-las-criticas-y-el-perfil-social-202112222370</guid>
+			<description><![CDATA[El movimiento gestado en el interior mantiene viva su llama en decenas de grupos de Whatsapp y este sábado marcará sus reclamos al gobierno de Luis Lacalle Pou]]></description>
+			<pubDate>Sat, 23 Jan 2021 08:00:45 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Long covid: los síntomas que persisten después de la infección
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/long-covid-los-sintomas-que-persisten-despues-de-la-infeccion-202112215500</link>
+			<guid>https://www.elobservador.com.uy/nota/long-covid-los-sintomas-que-persisten-despues-de-la-infeccion-202112215500</guid>
+			<description><![CDATA[El MSP reporta que hay un 17% de las personas infectadas con covid-19 que pierden el olfato, pero los especialistas estiman que son "muchos más"; el síntoma puede durar hasta seis meses después de la infección]]></description>
+			<pubDate>Sat, 23 Jan 2021 08:00:45 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Diálogo con cables entreverados
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/dialogo-con-cables-entreverados-202112217380</link>
+			<guid>https://www.elobservador.com.uy/nota/dialogo-con-cables-entreverados-202112217380</guid>
+			<description><![CDATA[Cada vez que el presidente dialoga con un referente del Frente Amplio, la izquierda asume que Lacalle Pou los utilizó para enredar los cables de una conversación que tiene mucho ruido en la línea]]></description>
+			<pubDate>Sat, 23 Jan 2021 08:00:45 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				El kirchnerismo se prepara para financiar el año electoral, y mira con cariño a YPF
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/el-kirchnerismo-se-prepara-para-financiar-el-ano-electoral-y-mira-con-carino-a-ypf-202112218220</link>
+			<guid>https://www.elobservador.com.uy/nota/el-kirchnerismo-se-prepara-para-financiar-el-ano-electoral-y-mira-con-carino-a-ypf-202112218220</guid>
+			<description><![CDATA[Un cambio en la gerencia de la principal empresa argentina llevó a un desplome en las acciones. Mientras el mercado se preocupa, hay versiones de una reestatización de las acciones flotantes en bolsa]]></description>
+			<pubDate>Sat, 23 Jan 2021 08:00:45 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				El ajuste en las tarifas de UTE y los entretelones de cómo se llegó al 5%
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/el-ajuste-en-las-tarifas-de-ute-y-los-entretelones-de-como-se-llego-al-5--202112217390</link>
+			<guid>https://www.elobservador.com.uy/nota/el-ajuste-en-las-tarifas-de-ute-y-los-entretelones-de-como-se-llego-al-5--202112217390</guid>
+			<description><![CDATA[La empresa deberá transferir US$ 61,5 millones a la caja del Estado en 2021]]></description>
+			<pubDate>Sat, 23 Jan 2021 08:00:45 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Rodrigo Granja: “La buena genética se paga sola”
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/rodrigo-granja-la-buena-genetica-se-paga-sola--202112212520</link>
+			<guid>https://www.elobservador.com.uy/nota/rodrigo-granja-la-buena-genetica-se-paga-sola--202112212520</guid>
+			<description><![CDATA[El presidente de la Sociedad Criadores de Corriedale del Uruguay destacó que apostar a una buena genética le asegura a los productores que los objetivos que tienen para las majadas se pueden orientar]]></description>
+			<pubDate>Sat, 23 Jan 2021 08:00:45 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La poesía volvió a la Casa Blanca
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-poesia-volvio-a-la-casa-blanca-2021122930</link>
+			<guid>https://www.elobservador.com.uy/nota/la-poesia-volvio-a-la-casa-blanca-2021122930</guid>
+			<description><![CDATA[La poeta Amanda Gorman, de 22 años, brilló en el acto de asunción de Joe Biden ]]></description>
+			<pubDate>Sat, 23 Jan 2021 08:00:45 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Por qué los músicos están vendiendo los derechos de sus canciones?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-por-que-los-musicos-estan-vendiendo-los-derechos-de-sus-canciones--202111915530</link>
+			<guid>https://www.elobservador.com.uy/nota/-por-que-los-musicos-estan-vendiendo-los-derechos-de-sus-canciones--202111915530</guid>
+			<description><![CDATA[Artistas como Bob Dylan o Shakira están vendiendo en cientos de millones de dólares sus catálogos a empresas privadas, una tendencia cada vez más habitual]]></description>
+			<pubDate>Sat, 23 Jan 2021 08:00:45 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				De olas, chicharras y siestas obligadas: los sonidos que elegimos recordar 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/de-olas-chicharras-y-siestas-obligadas-los-sonidos-que-elegimos-recordar--202111412460</link>
+			<guid>https://www.elobservador.com.uy/nota/de-olas-chicharras-y-siestas-obligadas-los-sonidos-que-elegimos-recordar--202111412460</guid>
+			<description><![CDATA[Ocho testimonios sobre esos sonidos que, en los meses de más calor del año, se clavan en la memoria y no se borran más]]></description>
+			<pubDate>Sat, 23 Jan 2021 08:00:45 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Rafael Radi, sobre las vacunas de Pfizer y Sinovac: "Son una buena combinación"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/rafael-radi-sobre-las-vacunas-de-pfizer-y-sinovac-son-una-buena-combinacion--202112214350</link>
+			<guid>https://www.elobservador.com.uy/nota/rafael-radi-sobre-las-vacunas-de-pfizer-y-sinovac-son-una-buena-combinacion--202112214350</guid>
+			<description><![CDATA[El coordinador general del GACH advirtió que Uruguay debe fortalecer los procesos de estudio del genoma de “las variantes virales que están circulando en Uruguay”, lo que puede generar un retraso en la detección que ya llegó a Brasil]]></description>
+			<pubDate>Sat, 23 Jan 2021 08:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La "obsesión" de una médica italiana por recuperar los nombres de 1.000 migrantes muertos durante un naufragio en el mar Mediterráneo
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-obsesion-de-una-medica-italiana-por-recuperar-los-nombres-de-1-000-migrantes-muertos-durante-un-naufragio-en-el-mar-mediterraneo-202112325954</link>
+			<guid>https://www.elobservador.com.uy/nota/la-obsesion-de-una-medica-italiana-por-recuperar-los-nombres-de-1-000-migrantes-muertos-durante-un-naufragio-en-el-mar-mediterraneo-202112325954</guid>
+			<description><![CDATA["Hay que identificar a los muertos, no solo para resolver casos penales o por respeto a su dignidad, es algo que hay que hacer por la salud de los vivos", dice la doctora Cristina Cattaneo]]></description>
+			<pubDate>Sat, 23 Jan 2021 05:59:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Coronavirus: la epidemióloga que perdió a su padre porque "él preferiría creer en los mensajes de WhatsApp"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/coronavirus-la-epidemiologa-que-perdio-a-su-padre-porque-el-preferiria-creer-en-los-mensajes-de-whatsapp--20211231713</link>
+			<guid>https://www.elobservador.com.uy/nota/coronavirus-la-epidemiologa-que-perdio-a-su-padre-porque-el-preferiria-creer-en-los-mensajes-de-whatsapp--20211231713</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 23 Jan 2021 04:07:13 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				AMLO y Biden sostiene una "cordial" primera llamada para hablar sobre la migración y la pandemia
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/amlo-y-biden-sostiene-una-cordial-primera-llamada-para-hablar-sobre-la-migracion-y-la-pandemia-202112223754</link>
+			<guid>https://www.elobservador.com.uy/nota/amlo-y-biden-sostiene-una-cordial-primera-llamada-para-hablar-sobre-la-migracion-y-la-pandemia-202112223754</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Sat, 23 Jan 2021 02:07:54 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
