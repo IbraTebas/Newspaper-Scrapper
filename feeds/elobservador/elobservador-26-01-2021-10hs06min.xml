@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>El Observador - </title>
+		<description>El Observador</description>
+		<link>https://www.elobservador.com.uy</link>
+		<language>spa</language>
+		<lastBuildDate>Tue, 26 Jan 2021 13:00:14 GMT</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.mustang.cloud/</generator>
+		<copyright>Copyright (c) 2021</copyright>
+		<atom:link href="https://www.elobservador.com.uy/rss/elobservador.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>El Observador - </title>
+			<url>https://www.elobservador.com.uy/images/estructura/logo.png</url>
+			<link>https://www.elobservador.com.uy</link>
+		</image>
+
+		<item>
+			<title><![CDATA[
+				La pandemia por covid-19 hizo que se perdieran más de 255 millones de empleos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-pandemia-por-covid-19-hizo-que-se-perdieran-mas-de-255-millones-de-empleos-en-el-mundo-202112694329</link>
+			<guid>https://www.elobservador.com.uy/nota/la-pandemia-por-covid-19-hizo-que-se-perdieran-mas-de-255-millones-de-empleos-en-el-mundo-202112694329</guid>
+			<description><![CDATA[Según el director general de la OIT, Guy Ryder, “las señales de recuperación" del trabajo "son alentadoras, pero son frágiles y altamente inciertas”]]></description>
+			<pubDate>Tue, 26 Jan 2021 12:43:29 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Acusación contra Trump llegó al Senado: el impeachment comienza el 9 de febrero
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/acusacion-contra-trump-llego-al-senado-el-impeachment-comienza-el-9-de-febrero-202112693637</link>
+			<guid>https://www.elobservador.com.uy/nota/acusacion-contra-trump-llego-al-senado-el-impeachment-comienza-el-9-de-febrero-202112693637</guid>
+			<description><![CDATA[Demócratas y republicanos acordaron posponer la fecha de inicio del juicio para que Trump prepare su defensa y Biden logre la aprobación de su gabinete]]></description>
+			<pubDate>Tue, 26 Jan 2021 12:36:37 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Querés disfrutar más del teletrabajo? Algunas ideas para mejorar tu experiencia
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-queres-disfrutar-mas-del-teletrabajo-algunas-ideas-para-mejorar-tu-experiencia-202112693034</link>
+			<guid>https://www.elobservador.com.uy/nota/-queres-disfrutar-mas-del-teletrabajo-algunas-ideas-para-mejorar-tu-experiencia-202112693034</guid>
+			<description><![CDATA[Algunas ideas que demuestran que teletrabajar no necesariamente tiene que ser algo para hacer en soledad y encerrado]]></description>
+			<pubDate>Tue, 26 Jan 2021 12:30:34 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				"El Amazonas es un paraíso de culturas que no conocemos" : entrevista con la escritora Pola Oloixarac
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-el-amazonas-es-un-paraiso-de-culturas-que-no-conocemos-entrevista-con-la-escritora-pola-oloixarac-202112692335</link>
+			<guid>https://www.elobservador.com.uy/nota/-el-amazonas-es-un-paraiso-de-culturas-que-no-conocemos-entrevista-con-la-escritora-pola-oloixarac-202112692335</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 26 Jan 2021 12:23:35 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				El escándalo de corrupción de Vitol, la multinacional del petróleo que montó una red de sobornos en varios países de América Latina
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/el-escandalo-de-corrupcion-de-vitol-la-multinacional-del-petroleo-que-monto-una-red-de-sobornos-en-varios-paises-de-america-latina-202112691728</link>
+			<guid>https://www.elobservador.com.uy/nota/el-escandalo-de-corrupcion-de-vitol-la-multinacional-del-petroleo-que-monto-una-red-de-sobornos-en-varios-paises-de-america-latina-202112691728</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 26 Jan 2021 12:17:28 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Pandemia de coronavirus: 3 formas de moverte más mientras trabajas desde tu casa
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/pandemia-de-coronavirus-3-formas-de-moverte-mas-mientras-trabajas-desde-tu-casa-20211269725</link>
+			<guid>https://www.elobservador.com.uy/nota/pandemia-de-coronavirus-3-formas-de-moverte-mas-mientras-trabajas-desde-tu-casa-20211269725</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 26 Jan 2021 12:07:25 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				"Creo honestamente que los hombres aún tienen que revelar cuál es su dolor"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-creo-honestamente-que-los-hombres-aun-tienen-que-revelar-cual-es-su-dolor--202112683237</link>
+			<guid>https://www.elobservador.com.uy/nota/-creo-honestamente-que-los-hombres-aun-tienen-que-revelar-cual-es-su-dolor--202112683237</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 26 Jan 2021 11:32:37 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				"La que tal vez fue la mujer más inteligente del siglo XX sentía vergüenza de ser lesbiana"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-la-que-tal-vez-fue-la-mujer-mas-inteligente-del-siglo-xx-sentia-verguenza-de-ser-lesbiana--202112675911</link>
+			<guid>https://www.elobservador.com.uy/nota/-la-que-tal-vez-fue-la-mujer-mas-inteligente-del-siglo-xx-sentia-verguenza-de-ser-lesbiana--202112675911</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 26 Jan 2021 10:59:11 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Alerta amarilla por tormentas en el centro y oeste del país: conocé las localidades afectadas
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/alerta-amarilla-por-tormentas-en-el-centro-y-oeste-del-pais-conoce-las-localidades-afectadas-202112674213</link>
+			<guid>https://www.elobservador.com.uy/nota/alerta-amarilla-por-tormentas-en-el-centro-y-oeste-del-pais-conoce-las-localidades-afectadas-202112674213</guid>
+			<description><![CDATA[El Inumet emitió una alerta amarilla por posibles tormentas fuertes que afecta a localidades de Río Negro, Durazno, Soriano, Tacuarembó, Flores y Florida]]></description>
+			<pubDate>Tue, 26 Jan 2021 10:42:13 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Coronavirus: cómo con las ganancias de los últimos meses de los 10 más ricos del mundo se "podrían comprar vacunas para todos"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/coronavirus-como-con-las-ganancias-de-los-ultimos-meses-de-los-10-mas-ricos-del-mundo-se-podrian-comprar-vacunas-para-todos--202112674119</link>
+			<guid>https://www.elobservador.com.uy/nota/coronavirus-como-con-las-ganancias-de-los-ultimos-meses-de-los-10-mas-ricos-del-mundo-se-podrian-comprar-vacunas-para-todos--202112674119</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 26 Jan 2021 10:41:19 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Carlos Slim, el hombre más rico de América Latina da positivo por covid-19
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/carlos-slim-el-hombre-mas-rico-de-america-latina-da-positivo-por-covid-19-202112652252</link>
+			<guid>https://www.elobservador.com.uy/nota/carlos-slim-el-hombre-mas-rico-de-america-latina-da-positivo-por-covid-19-202112652252</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 26 Jan 2021 08:22:52 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Lluvias y tormentas terminarán con la primera ola de calor del 2021
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/lluvias-y-tormentas-terminaran-con-la-primera-ola-de-calor-del-2021-20211252120</link>
+			<guid>https://www.elobservador.com.uy/nota/lluvias-y-tormentas-terminaran-con-la-primera-ola-de-calor-del-2021-20211252120</guid>
+			<description><![CDATA[En algunas zonas del país, el acumulado previsto es de 150 milímetros en 48 horas]]></description>
+			<pubDate>Tue, 26 Jan 2021 08:00:32 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Facultad de Medicina se sumará a la coordinación de las capacitaciones para CTI
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/facultad-de-medicina-se-sumara-a-la-coordinacion-de-las-capacitaciones-para-cti-202112518550</link>
+			<guid>https://www.elobservador.com.uy/nota/facultad-de-medicina-se-sumara-a-la-coordinacion-de-las-capacitaciones-para-cti-202112518550</guid>
+			<description><![CDATA[Los gremios médicos y los intensivistas se reunieron con Leonardo Cipriani tras la convocatoria de ASSE para formar médicos que puedan atender los CTI en caso de desborde]]></description>
+			<pubDate>Tue, 26 Jan 2021 08:00:32 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				"Es una mamarrachada": el reclamo de propietarios argentinos por los impuestos y la "discriminación"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-es-una-mamarrachada-el-reclamo-de-propietarios-argentinos-por-los-impuestos-y-la-discriminacion--202112517540</link>
+			<guid>https://www.elobservador.com.uy/nota/-es-una-mamarrachada-el-reclamo-de-propietarios-argentinos-por-los-impuestos-y-la-discriminacion--202112517540</guid>
+			<description><![CDATA[Un grupo de dueños con casas en Uruguay piden la exención de la contribución y que se autorice su ingreso "a la brevedad" ]]></description>
+			<pubDate>Tue, 26 Jan 2021 08:00:32 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				MSP pidió planes de vacunación a los departamentos para esta semana
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/msp-pidio-planes-de-vacunacion-a-los-departamentos-para-esta-semana-202112516230</link>
+			<guid>https://www.elobservador.com.uy/nota/msp-pidio-planes-de-vacunacion-a-los-departamentos-para-esta-semana-202112516230</guid>
+			<description><![CDATA[Los directores departamentales de Salud están cerrando los planes de vacunación en cada departamento, que incluyen la ubicación de los vacunatorios y la población prioritaria a vacunar]]></description>
+			<pubDate>Tue, 26 Jan 2021 08:00:32 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Gobierno define si extiende cierre de fronteras: autorizaron ingreso excepcional a 434 personas
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/gobierno-define-si-extiende-cierre-de-fronteras-autorizaron-ingreso-excepcional-a-434-personas-202112517430</link>
+			<guid>https://www.elobservador.com.uy/nota/gobierno-define-si-extiende-cierre-de-fronteras-autorizaron-ingreso-excepcional-a-434-personas-202112517430</guid>
+			<description><![CDATA[El presidente Luis Lacalle Pou reunirá al Consejo de Ministros este miércoles para analizar medidas]]></description>
+			<pubDate>Tue, 26 Jan 2021 08:00:32 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				El síntoma no es la enfermedad
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/el-sintoma-no-es-la-enfermedad-202112516360</link>
+			<guid>https://www.elobservador.com.uy/nota/el-sintoma-no-es-la-enfermedad-202112516360</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 26 Jan 2021 08:00:32 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				El "bono social" que UTE piensa para consumidores vulnerables y por qué puede revisar la tarifa básica 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/el-bono-social-que-ute-piensa-para-consumidores-vulnerables-y-por-que-puede-revisar-la-tarifa-basica--20211251410</link>
+			<guid>https://www.elobservador.com.uy/nota/el-bono-social-que-ute-piensa-para-consumidores-vulnerables-y-por-que-puede-revisar-la-tarifa-basica--20211251410</guid>
+			<description><![CDATA[El ente continuará trabajando en 2021 en el rediseño de su estructura tarifaria, informó su presidenta ]]></description>
+			<pubDate>Tue, 26 Jan 2021 08:00:32 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Los cambios y novedades de las radios uruguayas para el 2021
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/los-cambios-y-novedades-de-las-radios-uruguayas-para-el-2021-202112510420</link>
+			<guid>https://www.elobservador.com.uy/nota/los-cambios-y-novedades-de-las-radios-uruguayas-para-el-2021-202112510420</guid>
+			<description><![CDATA[Nuevos ciclos, nombres nuevos para programas ya al aire y algunos pases marcan las renovaciones en el dial]]></description>
+			<pubDate>Tue, 26 Jan 2021 08:00:32 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La detallada logística del gobierno para distribuir las vacunas contra el covid-19
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/gobierno-proyecta-vacunar-con-pfizer-a-80-mil-personas-en-los-primeros-3-dias-20211252110</link>
+			<guid>https://www.elobservador.com.uy/nota/gobierno-proyecta-vacunar-con-pfizer-a-80-mil-personas-en-los-primeros-3-dias-20211252110</guid>
+			<description><![CDATA[Gobierno proyecta vacunar con Pfizer a 80 mil personas en los primeros 3 días; usarán vehículos de todos los ministerios para ir a los residenciales; se dispondrán de hasta 25 aeronaves y el Ejército aportará 150 camionetas]]></description>
+			<pubDate>Tue, 26 Jan 2021 08:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				"Apartheid" del coronavirus: las críticas al eficiente plan de vacunación de Israel que no incluye a los palestinos de los territorios ocupados
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-apartheid-del-coronavirus-las-criticas-al-eficiente-plan-de-vacunacion-de-israel-que-no-incluye-a-los-palestinos-de-los-territorios-ocupados-202112634419</link>
+			<guid>https://www.elobservador.com.uy/nota/-apartheid-del-coronavirus-las-criticas-al-eficiente-plan-de-vacunacion-de-israel-que-no-incluye-a-los-palestinos-de-los-territorios-ocupados-202112634419</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 26 Jan 2021 06:44:19 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Vacuna contra el coronavirus: 4 incógnitas que quedan por responder
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/vacuna-contra-el-coronavirus-4-incognitas-que-quedan-por-responder-202112633410</link>
+			<guid>https://www.elobservador.com.uy/nota/vacuna-contra-el-coronavirus-4-incognitas-que-quedan-por-responder-202112633410</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 26 Jan 2021 06:34:10 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Las protestas en Holanda contra los encierros por coronavirus
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/las-protestas-en-holanda-contra-los-encierros-por-coronavirus-2021125234927</link>
+			<guid>https://www.elobservador.com.uy/nota/las-protestas-en-holanda-contra-los-encierros-por-coronavirus-2021125234927</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 26 Jan 2021 02:49:27 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Buga | Seis masacres en lo que va de 2021: ¿qué está pasando con la violencia en Colombia?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/buga-seis-masacres-en-lo-que-va-de-2021-que-esta-pasando-con-la-violencia-en-colombia--2021125231927</link>
+			<guid>https://www.elobservador.com.uy/nota/buga-seis-masacres-en-lo-que-va-de-2021-que-esta-pasando-con-la-violencia-en-colombia--2021125231927</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 26 Jan 2021 02:19:27 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Qué es la androginia cerebral y qué beneficios podría tener
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/que-es-la-androginia-cerebral-y-que-beneficios-podria-tener-2021125224841</link>
+			<guid>https://www.elobservador.com.uy/nota/que-es-la-androginia-cerebral-y-que-beneficios-podria-tener-2021125224841</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 26 Jan 2021 01:48:41 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
