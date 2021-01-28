@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
+	<channel>
+		<title>El Observador - </title>
+		<description>El Observador</description>
+		<link>https://www.elobservador.com.uy</link>
+		<language>spa</language>
+		<lastBuildDate>Wed, 27 Jan 2021 19:04:33 GMT</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>http://www.mustang.cloud/</generator>
+		<copyright>Copyright (c) 2021</copyright>
+		<atom:link href="https://www.elobservador.com.uy/rss/elobservador.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<title>El Observador - </title>
+			<url>https://www.elobservador.com.uy/images/estructura/logo.png</url>
+			<link>https://www.elobservador.com.uy</link>
+		</image>
+
+		<item>
+			<title><![CDATA[
+				Vea los cinco cruces de Montevideo donde se habilitará girar a la izquierda
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/vea-los-cinco-cruces-de-montevideo-donde-se-habilitara-girar-a-la-izquierda-2021127155548</link>
+			<guid>https://www.elobservador.com.uy/nota/vea-los-cinco-cruces-de-montevideo-donde-se-habilitara-girar-a-la-izquierda-2021127155548</guid>
+			<description><![CDATA[La Intendencia de Montevideo habilitó la maniobra desde el 1º de febrero y en los primeros días habrá inspectores de tránsito]]></description>
+			<pubDate>Wed, 27 Jan 2021 18:55:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				"Hay que abrazarse, no pasa nada": México recuerda las frases de López Obrador sobre el virus
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-hay-que-abrazarse-no-pasa-nada-mexico-recuerda-las-frases-de-lopez-obrador-sobre-el-virus-2021127154437</link>
+			<guid>https://www.elobservador.com.uy/nota/-hay-que-abrazarse-no-pasa-nada-mexico-recuerda-las-frases-de-lopez-obrador-sobre-el-virus-2021127154437</guid>
+			<description><![CDATA[Con síntomas "leves" desde este domingo, el presidente mexicano "evoluciona bien" de la enfermedad]]></description>
+			<pubDate>Wed, 27 Jan 2021 18:44:37 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Trabajadores de la salud reclaman saber qué vacuna recibirán y dicen que Lacalle "no es un mensajero divino"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/trabajadores-de-la-salud-reclaman-saber-que-vacuna-recibiran-y-dicen-que-lacalle-no-es-un-mensajero-divino--2021127145937</link>
+			<guid>https://www.elobservador.com.uy/nota/trabajadores-de-la-salud-reclaman-saber-que-vacuna-recibiran-y-dicen-que-lacalle-no-es-un-mensajero-divino--2021127145937</guid>
+			<description><![CDATA[La Federación Uruguaya de la Salud (FUS) concurrió a comisión del Senado en busca de respuestas, pero se les informó que se prorrogaba su comparecencia hasta el 10 de febrero]]></description>
+			<pubDate>Wed, 27 Jan 2021 17:59:37 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Valdez y Cía tiene todo listo para la primera feria del año en Don Tito
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/valdez-y-cia-tiene-todo-listo-para-la-primera-feria-del-ano-en-don-tito-2021127144329</link>
+			<guid>https://www.elobservador.com.uy/nota/valdez-y-cia-tiene-todo-listo-para-la-primera-feria-del-ano-en-don-tito-2021127144329</guid>
+			<description><![CDATA[Con una oferta de 500 vacunos y 400 lanares Valdez y Cía realizará la comercialización este jueves 28 desde el emblemático local en Tacuarembó]]></description>
+			<pubDate>Wed, 27 Jan 2021 17:43:29 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Coronavirus: qué errores se cometieron en Reino Unido para que se convirtiera en el primer país europeo en superar las 100.000 muertes por covid-19
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/coronavirus-que-errores-se-cometieron-en-reino-unido-para-que-se-convirtiera-en-el-primer-pais-europeo-en-superar-las-100-000-muertes-por-covid-19-202112714178</link>
+			<guid>https://www.elobservador.com.uy/nota/coronavirus-que-errores-se-cometieron-en-reino-unido-para-que-se-convirtiera-en-el-primer-pais-europeo-en-superar-las-100-000-muertes-por-covid-19-202112714178</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 27 Jan 2021 17:17:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Esperanza contra el covid-19: pruebas alentadoras con la colchicina, un antiinflamatorio común
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/esperanza-contra-el-covid-19-pruebas-alentadoras-con-la-colchicina-un-antiinflamatorio-comun-2021127135345</link>
+			<guid>https://www.elobservador.com.uy/nota/esperanza-contra-el-covid-19-pruebas-alentadoras-con-la-colchicina-un-antiinflamatorio-comun-2021127135345</guid>
+			<description><![CDATA[Los resultados de un estudio muestran que las muertes por la enfermedad se reducen en 44% y las hospitalizaciones en 25%]]></description>
+			<pubDate>Wed, 27 Jan 2021 16:53:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Vacuna contra el coronavirus: por qué millones de personas no podrán vacunarse hasta 2022
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/vacuna-contra-el-coronavirus-por-que-millones-de-personas-no-podran-vacunarse-hasta-2022-2021127134947</link>
+			<guid>https://www.elobservador.com.uy/nota/vacuna-contra-el-coronavirus-por-que-millones-de-personas-no-podran-vacunarse-hasta-2022-2021127134947</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 27 Jan 2021 16:49:47 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Biden convierte el cambio climático en prioridad: cumbre mundial en abril y freno a la extracción de hidrocarburos
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/biden-convierte-el-cambio-climatico-en-prioridad-cumbre-mundial-en-abril-y-freno-a-extraccion-de-hidrocarburos-2021127133342</link>
+			<guid>https://www.elobservador.com.uy/nota/biden-convierte-el-cambio-climatico-en-prioridad-cumbre-mundial-en-abril-y-freno-a-extraccion-de-hidrocarburos-2021127133342</guid>
+			<description><![CDATA[Biden se acerca a sus compromisos de campaña de dejar de usar combustibles fósiles y llegar a la neutralidad carbono en el sector energético en 2035 y en toda la economía en 2050]]></description>
+			<pubDate>Wed, 27 Jan 2021 16:33:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Coronavirus en Ecuador: el escándalo por la decisión del ministro de Salud de vacunar primero a sus familiares
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/coronavirus-en-ecuador-el-escandalo-por-la-decision-del-ministro-de-salud-de-vacunar-primero-a-sus-familiares-202112713278</link>
+			<guid>https://www.elobservador.com.uy/nota/coronavirus-en-ecuador-el-escandalo-por-la-decision-del-ministro-de-salud-de-vacunar-primero-a-sus-familiares-202112713278</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 27 Jan 2021 16:27:08 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Instituto que produce Sinovac dice que no está confirmada la cantidad de dosis que llegará
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/director-del-instituto-que-produce-vacunas-de-sinovac-dice-que-aun-no-esta-cerrada-la-cantidad-de-dosis-anunciadas-por-lacalle-20211271314</link>
+			<guid>https://www.elobservador.com.uy/nota/director-del-instituto-que-produce-vacunas-de-sinovac-dice-que-aun-no-esta-cerrada-la-cantidad-de-dosis-anunciadas-por-lacalle-20211271314</guid>
+			<description><![CDATA[Dimas Covas, director de Butantan, aseguró que hay un preacuerdo con Uruguay pero que las conversaciones siguen y no se sabe todavía la cantidad de dosis de Sinovac que llegarán para combatir el covid-19]]></description>
+			<pubDate>Wed, 27 Jan 2021 16:01:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Joe Sacco: "Lo que me dio una conciencia política, lo que me hizo la persona que fui de joven fue la situación en Centroamérica"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/joe-sacco-lo-que-me-dio-una-conciencia-politica-lo-que-me-hizo-la-persona-que-fui-de-joven-fue-la-situacion-en-centroamerica--2021127124743</link>
+			<guid>https://www.elobservador.com.uy/nota/joe-sacco-lo-que-me-dio-una-conciencia-politica-lo-que-me-hizo-la-persona-que-fui-de-joven-fue-la-situacion-en-centroamerica--2021127124743</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 27 Jan 2021 15:47:43 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Qué sonidos te recuerdan veranos pasados y qué futuro estás construyendo ahora?
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-que-sonidos-te-recuerdan-veranos-pasados-y-que-futuro-estas-construyendo-ahora--2021127122939</link>
+			<guid>https://www.elobservador.com.uy/nota/-que-sonidos-te-recuerdan-veranos-pasados-y-que-futuro-estas-construyendo-ahora--2021127122939</guid>
+			<description><![CDATA[Recuerdos del pasado, piques para disfrutar el presente, y una mirada al futuro en esta serie de recomendaciones]]></description>
+			<pubDate>Wed, 27 Jan 2021 15:29:39 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				¿Quién quiere ser millonario? vuelve a la televisión uruguaya con Orlando Petinatti como conductor
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/-quien-quiere-ser-millonario-vuelve-a-la-television-uruguaya-con-orlando-petinatti-como-conductor-202112712106</link>
+			<guid>https://www.elobservador.com.uy/nota/-quien-quiere-ser-millonario-vuelve-a-la-television-uruguaya-con-orlando-petinatti-como-conductor-202112712106</guid>
+			<description><![CDATA[El programa ¿Quién quiere ser millonario? será emitido por Canal 10 en el correr de este año, y marca la vuelta del formato que tuvo una versión local entre 2001 y 2002]]></description>
+			<pubDate>Wed, 27 Jan 2021 15:10:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Murió el inversor y promotor inmobiliario Mauricio Levitin a los 44 años 
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/murio-el-inversor-y-promotor-inmobiliario-mauricio-levitin-a-los-44-anos--2021127115512</link>
+			<guid>https://www.elobservador.com.uy/nota/murio-el-inversor-y-promotor-inmobiliario-mauricio-levitin-a-los-44-anos--2021127115512</guid>
+			<description><![CDATA[El director de Altius Group falleció este miércoles a causa de un infarto ]]></description>
+			<pubDate>Wed, 27 Jan 2021 14:55:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Gobierno hará campaña para incentivar la vacunación contra covid-19
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/gobierno-hara-campana-a-favor-de-la-vacunacion-contra-covid-19-ante-llegada-de-primeras-dosis-en-marzo-2021127113842</link>
+			<guid>https://www.elobservador.com.uy/nota/gobierno-hara-campana-a-favor-de-la-vacunacion-contra-covid-19-ante-llegada-de-primeras-dosis-en-marzo-2021127113842</guid>
+			<description><![CDATA[Ante la no obligatoriedad, Presidencia está preparando una campaña para promover la vacunación junto con el Ministerio de Salud Pública; el Sindicato Médico entiende que el personal de la salud "debe ser ejemplo" ]]></description>
+			<pubDate>Wed, 27 Jan 2021 14:38:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Asalto al Capitolio: la mayoría de 150 acusados enfrentan cargos de hasta 20 años de cárcel
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/asalto-al-capitolio-la-mayoria-de-150-acusados-enfrentan-cargos-de-hasta-20-anos-de-carcel-2021127112927</link>
+			<guid>https://www.elobservador.com.uy/nota/asalto-al-capitolio-la-mayoria-de-150-acusados-enfrentan-cargos-de-hasta-20-anos-de-carcel-2021127112927</guid>
+			<description><![CDATA[Las autoridades federales de Estados Unidos investigan a un grupo de personas por posible "conspiración y sedición"]]></description>
+			<pubDate>Wed, 27 Jan 2021 14:29:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Francisco Vera, el activista de 11 años que recibe amenazas de muerte en Colombia
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/francisco-vera-el-activista-de-11-anos-que-recibe-amenazas-de-muerte-en-colombia-2021127104432</link>
+			<guid>https://www.elobservador.com.uy/nota/francisco-vera-el-activista-de-11-anos-que-recibe-amenazas-de-muerte-en-colombia-2021127104432</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 27 Jan 2021 13:44:32 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Llegó en caballo a la cárcel de Punta de Rieles y tiró dos kilos de marihuana
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/llego-en-caballo-a-la-carcel-de-punta-de-rieles-y-tiro-dos-kilos-de-marihuana-2021127103539</link>
+			<guid>https://www.elobservador.com.uy/nota/llego-en-caballo-a-la-carcel-de-punta-de-rieles-y-tiro-dos-kilos-de-marihuana-2021127103539</guid>
+			<description><![CDATA[Un hombre se acercó al perímetro de la Cárcel de Punta de Rieles en caballo y tiró seis paquetes con marihuana]]></description>
+			<pubDate>Wed, 27 Jan 2021 13:35:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Conmoción en el Chaco: la iban a cremar y estaba viva
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/conmocion-en-el-chaco-la-iban-a-cremar-y-estaba-viva-2021127103314</link>
+			<guid>https://www.elobservador.com.uy/nota/conmocion-en-el-chaco-la-iban-a-cremar-y-estaba-viva-2021127103314</guid>
+			<description><![CDATA[Un insólito caso en Resistencia, la capital del Chaco, por el error de una clínica privada: iban a cremar a una mujer y estaba viva]]></description>
+			<pubDate>Wed, 27 Jan 2021 13:33:14 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Concierto en pandemia: la ingeniosa estrategia para tocar en medio de las restricciones por covid
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/concierto-en-pandemia-la-ingeniosa-estrategia-de-una-banda-de-rock-para-tocar-en-medio-de-las-restricciones-por-covid-202112595529</link>
+			<guid>https://www.elobservador.com.uy/nota/concierto-en-pandemia-la-ingeniosa-estrategia-de-una-banda-de-rock-para-tocar-en-medio-de-las-restricciones-por-covid-202112595529</guid>
+			<description><![CDATA[La ingeniosa idea provino del líder de la banda, Wayne Coyne, quien desde hace tiempo suele "rodar" por entre el público en una de estas cápsulas durante sus conciertos]]></description>
+			<pubDate>Wed, 27 Jan 2021 13:30:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Youtube suspende a Donald Trump de forma indefinida
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/youtube-suspende-a-donald-trump-de-forma-indefinida-2021127102944</link>
+			<guid>https://www.elobservador.com.uy/nota/youtube-suspende-a-donald-trump-de-forma-indefinida-2021127102944</guid>
+			<description><![CDATA[La plataforma YouTube también suspendió al abogado Rudy Giuliani por no respetar las reglas de la red social]]></description>
+			<pubDate>Wed, 27 Jan 2021 13:29:44 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				Proyecto de ley forestal "no encaja en un sistema de democracia liberal y libre mercado"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/proyecto-de-ley-forestal-no-encaja-en-un-sistema-de-democracia-liberal-y-libre-mercado--2021127102415</link>
+			<guid>https://www.elobservador.com.uy/nota/proyecto-de-ley-forestal-no-encaja-en-un-sistema-de-democracia-liberal-y-libre-mercado--2021127102415</guid>
+			<description><![CDATA[La Asociación Rural del Uruguay, en su centenaria revista, publicó un editorial en el que afirma que el proyecto que se analiza en el Parlamento constituye un grave antecedente para la producción agropecuaria y la libre empresa en el agro]]></description>
+			<pubDate>Wed, 27 Jan 2021 13:24:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				El país de América Latina en el que cerrarán más de un tercio de las universidades por "falta de calidad"
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/el-pais-de-america-latina-en-el-que-cerraran-mas-de-un-tercio-de-las-universidades-por-falta-de-calidad--20211271090</link>
+			<guid>https://www.elobservador.com.uy/nota/el-pais-de-america-latina-en-el-que-cerraran-mas-de-un-tercio-de-las-universidades-por-falta-de-calidad--20211271090</guid>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 27 Jan 2021 13:09:00 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				La futura secretaria de Comercio de EEUU promete ser "agresiva" con China
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/la-futura-secretaria-de-comercio-de-eeuu-promete-ser-agresiva-con-china-202112794017</link>
+			<guid>https://www.elobservador.com.uy/nota/la-futura-secretaria-de-comercio-de-eeuu-promete-ser-agresiva-con-china-202112794017</guid>
+			<description><![CDATA[La nueva secretaria estadounidense de Comercio, Gina Raimondo, no se ha comprometido a mantener al gigante Huawei y a otras empresas chinas en la lista negra estadounidense]]></description>
+			<pubDate>Wed, 27 Jan 2021 12:40:17 GMT</pubDate>
+		</item>
+		<item>
+			<title><![CDATA[
+				IMM cambió radar de velocidad de Parque Rodó a La Blanqueada
+			]]></title>
+			<link>https://www.elobservador.com.uy/nota/imm-cambio-radar-de-velocidad-de-parque-rodo-a-la-blanqueada-20211279299</link>
+			<guid>https://www.elobservador.com.uy/nota/imm-cambio-radar-de-velocidad-de-parque-rodo-a-la-blanqueada-20211279299</guid>
+			<description><![CDATA[El equipo de fiscalización electrónica que estaba en bulevar Artigas y 21 de Setiembre pasará a estar en General Urquiza y Comandante Braga, donde controlará que no se exceda el límite de 45 km/h]]></description>
+			<pubDate>Wed, 27 Jan 2021 12:29:09 GMT</pubDate>
+		</item>
+	</channel>
+</rss>
